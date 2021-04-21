@@ -18,14 +18,14 @@ html, body {
 }
 
 a {
-  color: $accent-light;
+  color: #A44C08;
   font-weight: 700;
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: underline;
-  color: $accent-dark;
+  color: #D98508;
 }
 
 p {
@@ -50,20 +50,20 @@ header & nav bar
   background-color: $bg-color;
   border-bottom: 1px solid $text-color;
   font-family: $heading-font;
-  color: $text-color;
+  color: #A44C08;
   z-index: 100000;
   padding: $margin;
   letter-spacing: 0.075rem;
 
   .navbar-brand {
     font-weight: 700;
-    color: $accent-light;
+    color: #A44C08;
     font-size: 2rem;
     white-space: normal;
   }
 
   .navbar-brand:hover {
-    color: $accent-dark;
+    color: #D98508;
   }
 
   .navbar-toggler {
@@ -79,7 +79,7 @@ header & nav bar
       color: $text-color;
     }
     .nav-link:hover {
-      color: $accent-dark;
+      color: #D98508;
     }
     .nav-link:active {
       background-color: $bg-color;
@@ -201,7 +201,7 @@ content section
   width: 100vw;
   padding-bottom: 5rem;
   padding-top: 3rem;
-  background-color: $neutral;
+  background-color: #DCE8DF;
   col {
     flex-basis: 0;
     flex-shrink: 0;
@@ -231,6 +231,7 @@ content section
     font-family: $heading-font;
     margin: 0;
     font-size: .9em;
+    color: #D98508;
     line-height: 1.2;
   }
   .footer-logos {
@@ -318,7 +319,7 @@ item pages (iiif + metadata)
     position: relative;
     text-align: center;
     height:   $viewer-height;
-    max-height: 80vh;
+    max-height: 70vh;
     background-color: $neutral;
     width:    100%;
     border:   1px solid $neutral;
@@ -346,12 +347,12 @@ item pages (iiif + metadata)
       font-family: $heading-font;
       font-weight: bold;
       font-size: 3em;
-      color: $text-color !important;
+      color: #D98508;
       text-decoration: none !important;
       background-color: $bg-color;
       margin: 0;
       &:hover{
-        color: $accent-dark !important;
+        color: #6F8B90 !important;
       }
     }
   }

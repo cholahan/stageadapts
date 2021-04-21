@@ -8,6 +8,29 @@
     {% endif %}
 
     {% comment %}
+    this is the new loop block
+    {% endcomment %}
+    {% if value | strip != '' %}
+      {% if item.type == 'loop' and item.sub %}
+        <dt>{{ item.label }}</dt>
+        <dd>
+          <ol>
+            {% for s in value %}
+              <li>
+              {% for i in item.sub %}
+                {% assign subkey = i.value | remove: 'item.' %}
+                <b>{{ i.label }}:</b> {{ s[subkey] }}<br>
+              {% endfor %}
+              </li>
+            {% endfor %}
+          </ol>
+        </dd>
+      {% endif %}
+    {% endif %}
+
+
+
+    {% comment %}
     Only display non-empty values
     {% endcomment %}
     {% if value | strip != '' %}

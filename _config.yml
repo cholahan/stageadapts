@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Novel(ty) on Stage'
+description:      'Eighteenth-century Stage Adaptations'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
 copyright:        'Example copyright org, 2019'
@@ -64,13 +64,21 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  adaptations: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'qatar_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'adaptations.json' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'raw_images/adaptations' # path to the directory of images within `_data`
+  originals: # name of collection
+    output: true # makes sure pages are output as html files
+    layout: 'qatar_item' # the layout for the pages to use
+    metadata:
+      source: 'originals.json' # path to the metadata file within `_data`
+    images:
+      source: 'raw_images/originals' # path to the directory of images within `_data`
+
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -84,15 +92,14 @@ search:
   main:
     index: '/search/index.json' # file the index will get written to
     collections:
-      qatar:
+      adaptations:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
-          - label
-          - _date
-          - object_type
-          - current_location
+          - title
+          - author
+          - year
+          - adap_form
+          - general_notes
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
@@ -104,24 +111,16 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
-        link: '/about/'
-      - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
+      - label: 'The Project'
+        link: '/project/'
+      - label: 'Database'
+        link: '/database/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
@@ -131,11 +130,9 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
-      link: '/credits'
-    - label: 'Contact'
-      link: 'https://gitter.im/minicomp/wax/'
+      link: 'https://github.com/cholahan'
+    - label: 'About'
+      link: '/about/'
   logos:
     - img: '/img/logo.png'
 

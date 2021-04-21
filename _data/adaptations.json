@@ -1,0 +1,2319 @@
+[
+  {
+    "pid": "1001",
+    "adaptid": [
+      "a001",
+      "a059"
+    ],
+    "title": "Oroonoko: A Tragedy",
+    "author": "Thomas Southerne",
+    "author_gender": "male",
+    "year": 1695,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "Tragedy",
+    "genre_standard": "Tragedy",
+    "no_acts": "",
+    "musical_numbers": false,
+    "img": [
+      {
+        "id": "",
+        "caption": ""
+      }
+    ],
+    "general_notes": "Advertised as both a 'play' and a 'tragedy'. This play also adapts characters and storylines from Behn's 'The Widow Ranter' (1689)",
+    "adap_notes": [
+      {
+        "note": "Adds comic subplot",
+        "source": ""
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 7,
+      "same_author": false,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 1,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": true,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "",
+        "source_details": "",
+        "source_pp": "103",
+        "claim": ""
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Dury Lane",
+      "location_1": "London",
+      "date_1": "11-00-1695",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "309",
+      "London_Stage": "Rich's Company. The date of the premiere is not known, but the fact that the play was advertised in the Post Boy, 12-14 Dec. 1695, and the London Gazette, No. 3140, 12-16 Dec. 1695, suggests that it was probably first acted not later than November 1695",
+      "Drama_data_notes": "According to Bolton, it was performed most repeatedly in the 1730s and 1740s. Continued to be performed during and after Hawkesworth's version. In the 1770s and 1780s again became to the most performed version."
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "Oroonoko: A Tragedy",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": 1696,
+      "print_location": "London",
+      "publisher": [
+        "H. Playford",
+        "B. Tooke",
+        "S. Buckley"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "William Congreve",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia Dramatica": "O.92",
+      "ECD": "",
+      "Kislak": "PR3699.S3 O6 1696",
+      "Playbills": [
+
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "00",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1001/full/250,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1001/manifest.json"
+  },
+  {
+    "pid": "1030",
+    "adaptid": [
+      "a011"
+    ],
+    "title": "The Exile; or, The Deserts of Siberia",
+    "author": "Frederick Reynolds",
+    "author_gender": "male",
+    "year": 1808,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "Operatic Play",
+    "genre_standard": "Melodrama",
+    "no_acts": 3,
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "",
+        "caption": ""
+      }
+    ],
+    "general_notes": "Beginning in 1809, also called a ‘melodramatic opera' in many cases",
+    "adap_notes": [
+      {
+        "note": "This interesting Play is taken from Madame Cottin's celebrated French work, Elizabeth, or the Exile of Siberia. The story’s sentiments, and most striking situations, are closely copied from the original, which has been universally read and admired through Europe, and translated into almost every modern language. Were the narrative merely the creation of fancy, it would be considered as affecting a fiction as ever met the public eye; but as.it is generally known to be founded on truth, and to be actually an established fact, tenfold sympathy is naturally excited by its grand representation. The Heroine of this piece was a character that really existed in our own times, who undertook a dangerous and painful journey of several thousand miles, over trackless snows and inhospitable, deserts, to throw herself at the feet of her sovereign at his coronation, and implore pardon for an honourable, but exiled father. The Emperor Alexander, whose magnanimity has since been the theme of every tongue, even then gave a happy and glorious presage of his character and reign, by generously granting a parent's freedom to the ardent supplications of his duteous child, thus rewarding filial piety, and exerting the best prerogative of royalty,--the power of pardon. This transaction, so honourable to that monarcb, from motives of stage effect and propriety, is fixed at a remote period of history. Facts are improved by the most impressive fictions. The heroic character of Daran, the unwearied champion and protector of oppressed innocence, heightens the serious interest of the piece, while the pathetic is admirably blended with the comic, and the most animated and choice music sheds brilliance over the whole of this varied and entertaining Drama.",
+        "source": "British Library Playbill, Theatre Royal York, May 1835 (lsidyv41bb5189_1795-1844_Theatre-Royal_York_0227)"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 2,
+      "same_author": false,
+      "translation": true,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 1,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Biographia Dramatica",
+        "source_details": "E.220",
+        "source_pp": "",
+        "claim": "founded on the novel of Elizabeth, by Mad. Cottin"
+      },
+      {
+        "source": "British Library Playbill",
+        "source_details": "Theatre Royal York, May 1835 (lsidyv41bb5189_1795-1844_Theatre-Royal_York_0227)",
+        "source_pp": "",
+        "claim": "This interesting Play is taken from Madame Cottin's celebrated French work, Elizabeth, or the Exile of Siberia. The story’s sentiments, and most striking situations, are closely copied from the original, which has been universally read and admired through Europe, and translated into almost every modern language. Were the narrative merely the creation of fancy, it would be considered as affecting a fiction as ever met the public eye; but as.it is generally known to be founded on truth, and to be actually an established fact, tenfold sympathy is naturally excited by its grand representation. The Heroine of this piece was a character that really existed in our own times, who undertook a dangerous and painful journey of several thousand miles, over trackless snows and inhospitable, deserts, to throw herself at the feet of her sovereign at his coronation, and implore pardon for an honourable, but exiled father. The Emperor Alexander, whose magnanimity has since been the theme of every tongue, even then gave a happy and glorious presage of his character and reign, by generously granting a parent's freedom to the ardent supplications of his duteous child, thus rewarding filial piety, and exerting the best prerogative of royalty,--the power of pardon. This transaction, so honourable to that monarcb, from motives of stage effect and propriety, is fixed at a remote period of history. Facts are improved by the most impressive fictions. The heroic character of Daran, the unwearied champion and protector of oppressed innocence, heightens the serious interest of the piece, while the pathetic is admirably blended with the comic, and the most animated and choice music sheds brilliance over the whole of this varied and entertaining Drama."
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Covent Garden",
+      "location_1": "London",
+      "date_1": "11-10-1808",
+      "no_nights_1": "",
+      "theatre_manager_1": "Thomas Harris",
+      "actors_1": [
+        {
+          "name": "",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+        "Joseph Mazzinghi"
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "Grand Public Entry of the Empress Elizabeth Through a TRIUMPHAL ARCH decorated for the occasion. The PROCESSION proceeds in its course to the Cathedral, attended by Deputations from her TRIBUTARY STATES, by all the Dignitaries and Public Functionaries of the City; and the AMBASSADORS from all the various Courts of Europe and Asia. The Outside of the Greek Church, With the distant buildings surrounding it, Illuminated. INTERIOR of the CATHEDRAL of MOSCOW, in which the THE CORONOATION OF ELZABETH Is performed by the Great Patriarch, and his assisting Dignities.",
+          "source": "British Library Playbill",
+          "source_details": "",
+          "theatre": "Drury Lane",
+          "date": "10-17-1821"
+        },
+        {
+          "description": "The following scenery has been painted by Mr. Andrews, Mr. Marinari, and Mr. STANFIELD. Mountains of Snow in Siberia, with the Cottage of Count Ulrick, the Exile. Rocky pass among the Mountains. Hall in the Governor’s House at Tobolski. The River Wolga, by Moonlight. View of Moscow. Exterior and Interior of the Cathedral, in which the CORONATION OF ELIZABETH Is performed by the Grand Patriarch and his assisting Dignitaries.",
+          "source": "British Library Playbill",
+          "source_details": "",
+          "theatre": "Drury Lane",
+          "date": "05-06-1831"
+        },
+        {
+          "description": "Grand Public Entry of the Empress Elizabeth Through a TRIUMPHAL ARCH decorated for the occasion. The PROCESSION proceeds in its course to the Cathedral, attended by Deputations from her TRIBUTARY STATES, by all the Dignitaries and Public Functionaries of the City; and the AMBASSADORS from all the various Courts of Europe and Asia. The INTERIOR of the CATHEDRAL of MOSCOW, THE CORONOATION OF ELZABETH. Is performed by the Great Patriarch, and his assisting Dignities.",
+          "source": "British Library Playbill",
+          "source_details": "",
+          "theatre": "Drury Lane",
+          "date": "02-08-1832"
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": "First performed by the Covent Garden Company at the Opera House. Performed throughout the 1800s at both Covent Garden and Drury Lane. As evident from playbills, the play was very popular in English cities outside of London, including in Bath, Bristol, Birmingham, Newcastle, Hull, Manchester, and Liverpool; as well as in Ireland and Scotland."
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The Exile; or, the Deserts of Siberia: an operatic play in three acts",
+      "printed_in_collection": true,
+      "collection_title": "Cumberland's British Theatre",
+      "print_year": 1829,
+      "print_location": "London",
+      "publisher": [
+        "Cumberland"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": "In the series 'Cumberland's British Theatre'"
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": 1558,
+      "Biographia_dramatica": "E.220",
+      "ECD": "https://www-eighteenthcenturydrama-amdigital-co-uk.proxy.library.upenn.edu/Documents/SearchDetails/HL_LA_mssLA1558",
+      "Kislak": "",
+      "Playbills": [
+
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "01",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1030/full/250,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1030/manifest.json"
+  },
+  {
+    "pid": "1032",
+    "adaptid": [
+      "a013"
+    ],
+    "title": "The Count of Narbonne",
+    "author": "Robert Jephson, Esq.",
+    "author_gender": "male",
+    "year": 1781,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "Tragedy",
+    "genre_standard": "tragedy",
+    "no_acts": 5,
+    "musical_numbers": false,
+    "img": [
+      {
+        "id": "img_1032_1.jpg",
+        "caption": "'Mr Kemble in the Count Narbonne.' Print by William Sadler. The British Museum (1933,1014.288). CC BY-NC-SA 4.0"
+      },
+      {
+        "id": "img_1032_2.jpg",
+        "caption": "Miss Younge in the character of the Countess of Narbone. Circa 1790-1809. The British Museum (1933,1014.364). CC BY-NC-SA 4.0"
+      },
+      {
+        "id": "img_1032_3.jpg",
+        "caption": "Mr Kemble in the Count of Narbonne. Dublin, c. 1781-1786. The British Museum (1933,1014.287). CC BY-NC-SA 4.0."
+      }
+    ],
+    "general_notes": "Dedicated to Horace Walpole",
+    "adap_notes": [
+      {
+        "note": "The characters, language, and sentiment, are well drawn and supported, and sufficiently discriminated from each other. It has been thought, however, that the catastrophe is too shocking.",
+        "source": "Biographica Dramatica, C.445"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 17,
+      "same_author": false,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": "",
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Biographica Dramatica",
+        "source_details": "BD C.445",
+        "source_pp": "v.2, pp. 135",
+        "claim": "This play is evidently founded on Horace Walpole's Gothic story of The Castle of Otranto."
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Covent Garden",
+      "location_1": "London",
+      "date_1": "11-17-1781",
+      "no_nights_1": "",
+      "theatre_manager_1": "Thomas Harris",
+      "actors_1": [
+        {
+          "name": "Mr. Wroughton",
+          "role": "Raymond, Count of Narbonne"
+        },
+        {
+          "name": "Mr. Henderson",
+          "role": "Austin, a Priest"
+        },
+        {
+          "name": "Mr. Lewis",
+          "role": "Theodore, a Peasant"
+        },
+        {
+          "name": "Mr. Thompson",
+          "role": "Fabian, an old Servant of the Count"
+        },
+        {
+          "name": "Miss Younge",
+          "role": "Hortensia, Countess of Narbonne"
+        },
+        {
+          "name": "Miss Satchell",
+          "role": "Adelaide, Daughter of the Count and Countess"
+        },
+        {
+          "name": "Mrs. Morton",
+          "role": "Jacqueline, her Attendant"
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "The Castle of Otranto, with all its peculiarites, must be allowed to be a much more interesting and animated composition than the Count of Narbonne; and had the author of the Gothic Story chosen to have given his work a direct dramatic form, he would most probably have exhibited a performance very different from the tragedy before us. His magic might perhaps have appeared, in spectacle, at the theatre; or, at least, he who hazarded a ludicrous simplicity, in the deportment of the domestics, would not like his theatrical follower, have allotted to all his personages a sameness of language and character. Certain it is, that a coldness and obscurity pervades the present scenes, from a perpetual, but indistinct reference to a work which, entertaining as it is, hath not perhaps been read by the million, and is not, even by those who have read it, sufficiently remembered, to enable them to maintain the thread of the action in the representation. Fables may be borrowed; but borrowed or original, the drama should unfold itself, independent of all foreign matter. The Count of Narbonne, on the contrary, requires a constant commentary from the Castle of Otranto. The very opening is perplexed and obscure. The death of the son, and the flight of Isabel, are so blended, that neither are interesting, or indeed intelligible. Godfrey's challenge too is opened rather darkly. The appearance of the herald might have given it action, and have spared a cold narration, together with the heavy personage of Fabian, who is made a dull and unmov'd hearer and retailer of the story, to infintrate the plot into boxes. In many other particulars the fable is unsuccesfully traced from the novel, which almost every where rises superior, much superior, to the drama! and in no instance more eminently than in the delineation and conduct of the two female characters, Isabel and Matilda, which are sustained by the honourable novelist with the most delicate address, so managed as to render each of them respectively amiable, as well as to add much force and interest to the situation of Theodore, who appears in the Tragedy a mere drawing after Dorilas, and Douglas. On the whole, the fable of the Count of Narbonne is, in our opinion, maimed and defective. It is cold and obscure. All the leading incidents, instead of coming forth in dramatic action, are lost in narration, and touch not the passions.",
+          "source": "Hibernian Magazine; or, Compendium of entertaining knolwedge (Dublin)",
+          "date": "March 1782"
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The Count of Narbonne: a tragedy. As it is acted at the Theatre Royal in Covent Garden",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": 1781,
+      "print_location": "London",
+      "publisher": [
+        "T. Cadell"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "8vo",
+      "cost": 20,
+      "pages": 92,
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "Edmund Malone",
+      "notes": "Two different epilogues, by Edmund Malone and R J Goodenough"
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "575",
+      "Biographia_dramatica": "C.445",
+      "ECD": "https://www-eighteenthcenturydrama-amdigital-co-uk.proxy.library.upenn.edu/Documents/SearchDetails/HL_LA_mssLA575",
+      "Kislak": "EC75 G1933 767c v.1",
+      "Playbills": [
+        "lsidyv3fa28130_1781-1783_Covent_Garden_0045"
+      ],
+      "WPHP": "",
+      "ESTC": "T34210",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "02",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1032/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1032/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1032/manifest.json"
+  },
+  {
+    "pid": "1056",
+    "adaptid": [
+      "a023"
+    ],
+    "title": "The Lord of the Isles; Or, The Gathering of the Clans",
+    "author": "Edward Fitzball",
+    "author_gender": "male",
+    "year": 1834,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "National Opera",
+    "genre_standard": "Opera",
+    "no_acts": 3,
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "img_1056_1.jpg",
+        "caption": "Image from the Library of Congress. Rodwell, G. Herbert, R Hughes, Walter Scott, Edward Fitzball, Mr Archer, Mr Wilson, Mr Morley, et al. The lord of the isles, or, The gathering of the clans: a grand national opera, in three acts. John Miller, Henrietta Street, Covent Garden, agent to the Dramatic Author's Society, London, monographic, 1834. Image. https://www.loc.gov/item/2010659407/."
+      }
+    ],
+    "general_notes": "",
+    "adap_notes": [
+      {
+        "note": "",
+        "source": ""
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 19,
+      "same_author": false,
+      "translation": false,
+      "first_adap": false,
+      "adap_of_adap": {
+        "is": true,
+        "via_translation": false,
+        "adap_of": "1072"
+      },
+      "adap_seq": 2,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "",
+        "source_details": "",
+        "source_pp": "",
+        "claim": "An Historical Piece in Three Acts, taken from and in the words of Walter Scott's late Poem, called, The Lord of the Isles; Or, The Battle of Bannockburn"
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Surrey Theatre",
+      "location_1": "London",
+      "date_1": "11-02-1834",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "Mr. Archer",
+          "role": "King Robert Bruce"
+        },
+        {
+          "name": "Mr. Wilson",
+          "role": "Ronald (Lord of the Isles)"
+        },
+        {
+          "name": "Miss Land",
+          "role": "Lady Isabel (Ward to Bruce)"
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+        "G.H. Rodwell"
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The lord of the isles, or, The gathering of the clans: a grand national opera, in three acts",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": 1834,
+      "print_location": "London",
+      "publisher": [
+        "John Miller"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": 56,
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": true,
+      "songbook_advertised_playbill": true,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        "Goulding & D'Almaine"
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": 1850,
+      "Biographia_dramatica": "",
+      "ECD": "https://www-eighteenthcenturydrama-amdigital-co-uk.proxy.library.upenn.edu/Documents/SearchDetails/HL_LA_mssLA1850?",
+      "Kislak": "",
+      "Playbills": [
+        "lsidyv400d85a1_single_1835-1836_Covent_Garden_with_Polish_Refugee_Benefit_merged_0148"
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "03",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1056/full/250,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1056/manifest.json"
+  },
+  {
+    "pid": "1065",
+    "adaptid": [
+      "a028"
+    ],
+    "title": "The Africans, or War, Love, and Duty",
+    "author": "George Colman the Younger",
+    "author_gender": "male",
+    "year": 1808,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "play",
+    "genre_standard": "melodrama",
+    "no_acts": 3,
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "img_1065_1",
+        "caption": "The British Museum. Asset no. 512102001. Plate numbered 495. Sept 1 1808 Etching with letterpress. CC BY-NC-SA 4.0"
+      }
+    ],
+    "general_notes": "Only printed in America",
+    "adap_notes": [
+      {
+        "note": "An anti-slavery piece, presenting the European slave traders as ridiculous characters.",
+        "source": "Huntington Library catalogue"
+      },
+      {
+        "note": "The play was performed, in part, to celebrate Parliament’s move to end the trade in 1807, and there are certainly anti-slavery sentiments expressed – note, for example, the names of the slavers, Fetterwell, Marrowbone, Grim, and Flayall – but the title, nevertheless, hides slavery under another term, 'war.'",
+        "source": "Dana Van Kooy and Jeffrey N. Cox, 'Melodramatic Slaves' (2012)"
+      },
+      {
+        "note": "The characters of Mug and Sutta, however, bear too near a resemblance to the Trudge and Woski of the author in his Inkle and Yarico",
+        "source": "Biographia Dramatica, A.72"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 16,
+      "same_author": false,
+      "translation": true,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 1,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Biographia Dramatica",
+        "source_details": "A.72",
+        "source_pp": 7,
+        "claim": "The plot is from Les Nouvelles du Florian, and is really interesting."
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Haywood",
+      "location_1": "London",
+      "date_1": "07-29-1808",
+      "no_nights_1": 31,
+      "theatre_manager_1": "James Winston",
+      "actors_1": [
+        {
+          "name": "",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+        "Mr. Kelly"
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The Africans, or War, Love, and Duty: a play in three acts. As performed at the Philadelphia Theatre",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": 1811,
+      "print_location": "Philadelphia",
+      "publisher": [
+        "M. Carey"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": 1553,
+      "Biographia_dramatica": "A.72",
+      "ECD": "https://www-eighteenthcenturydrama-amdigital-co-uk.proxy.library.upenn.edu/Documents/SearchDetails/HL_LA_mssLA1553",
+      "Kislak": "",
+      "Playbills": [
+
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "04",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1065/full/250,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1065/manifest.json"
+  },
+  {
+    "pid": "1080",
+    "adaptid": [
+      "a043"
+    ],
+    "title": "Isabella; or, the Fatal Marriage",
+    "author": "David Garrick",
+    "author_gender": "male",
+    "year": 1757,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "Play",
+    "genre_standard": "Tragedy",
+    "no_acts": 5,
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "img_1080_1",
+        "caption": "'Mrs Siddons and her Son in the Tragedy of Isabella' (Sarah Siddons (née Kemble); Henry Siddons) by and published by James Caldwall, published by and after William Hamilton mezzotint, published 1 June 1785. National Portrait Gallery, London. Creative Commons License. NPG D41670"
+      }
+    ],
+    "general_notes": "",
+    "adap_notes": [
+      {
+        "note": "In 1757 Garrick stripped it of its comic line and created a new hit which was performed as Isabella for another century",
+        "source": "Julia A. Rich, 'Isabella of Southerne’s The Fatal Marriage (1694): Saint or Sinner'"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 69,
+      "same_author": false,
+      "translation": false,
+      "first_adap": false,
+      "adap_of_adap": {
+        "is": true,
+        "via_translation": false,
+        "adap_of": "1079"
+      },
+      "adap_seq": 2,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": true,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Philip Bolton, Women Writers Dramatized",
+        "source_details": "",
+        "source_pp": 23,
+        "claim": ""
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Drury Lane",
+      "location_1": "London",
+      "date_1": "",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "David Garrick",
+          "role": "Biron"
+        },
+        {
+          "name": "Mr. Berry",
+          "role": "Count Baldwin"
+        },
+        {
+          "name": "Sarah Siddons",
+          "role": "Isabella"
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "In Act III, An Epithalamium [...] End of the Play, Mr. Palmer will (By Particular Desire) recite Collins's Ode on the Passions.",
+          "source": "Drury Lane, 04-14-1795. British Library Playbill lsidyv3f9bd39b_1794-1795_Drury_Lane_Playbills_0411"
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": "Continually performed, at least until 1852. See Bolton."
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "Isabella; or, the Fatal Marriage. A Play. Alter'd from Southern",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": 1758,
+      "print_location": "London",
+      "publisher": [
+        "J. and R. Tonson"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": 12,
+      "pages": 62,
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia_dramatica": "",
+      "ECD": "",
+      "Kislak": "",
+      "Playbills": [
+        "lsidyv3f9bd39b_1794-1795_Drury_Lane_Playbills_0411"
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "05",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1080/full/250,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1080/manifest.json"
+  },
+  {
+    "pid": "1138",
+    "adaptid": [
+      "a070"
+    ],
+    "title": "Douglas",
+    "author": "John Home",
+    "author_gender": "male",
+    "year": "1756",
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "",
+    "genre": "tragedy",
+    "genre_standard": "tragedy",
+    "no_acts": "",
+    "musical_numbers": false,
+    "img": [
+      {
+        "id": "img_1138_1.jpg",
+        "caption": "Henry Erskine Johnston in the Character of Douglas. Edward Mitchell, 1806. National Portrait Gallery (NPG D36709). CC BY 4.0."
+      }
+    ],
+    "general_notes": "In verse.",
+    "adap_notes": [
+      {
+        "note": "The play is set at the time of the Viking incursions in Scotland, and the plot revolves around the unexpected return of Douglas, the long-lost son of Lady Randolph conceived during a previous but clandestine marriage to Lord Douglas, of which her second husband is unaware.",
+        "source": "'Theatre Outside London, 1660-1775'"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": "",
+      "same_author": false,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": "",
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "",
+        "source_details": "",
+        "source_pp": "",
+        "claim": ""
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Theatre Royal, Edinburgh",
+      "location_1": "Edinburgh",
+      "date_1": "12-14-1756",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": "After performed in London at Covent Garden"
+    },
+    "Print_data": {
+      "printed": false,
+      "print_title": "",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia_dramatica": "",
+      "ECD": "",
+      "Kislak": "Rare Book Collection. PR3516 .D6 1770",
+      "Playbills": [
+        "lsidyv3f9dcf34_1754-1813_selected_Drury_Lane_Playbills_0331",
+        "lsidyv3f9dcf34_1754-1813_selected_Drury_Lane_Playbills_0331"
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "Engraving of a scene from the play, National Galleries Scotland",
+          "url": "https://www.nationalgalleries.org/art-and-artists/97984/scene-play-douglas-john-home"
+        }
+      ]
+    },
+    "order": "06",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1138/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1138/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1138/manifest.json"
+  },
+  {
+    "pid": "1141",
+    "adaptid": [
+      "a071"
+    ],
+    "title": "The Sister",
+    "author": "Charlotte Lennox",
+    "author_gender": "female",
+    "year": "1769",
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "comedy",
+    "genre_standard": "comedy",
+    "no_acts": 5,
+    "musical_numbers": false,
+    "img": [
+      {
+        "id": "img_1141_1.jpg",
+        "caption": "Title page. Public Domain."
+      }
+    ],
+    "general_notes": "",
+    "adap_notes": [
+      {
+        "note": "",
+        "source": "Susan Carlile, 'Henrietta on Page and Stage,' in 'Masters of the Marketplace' (2011)"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 11,
+      "same_author": true,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": "",
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Biographia Dramatica",
+        "source_details": "B.D. S.320",
+        "source_pp": "",
+        "claim": "This comedy was taken from the authoress's own novel, intitled Henrietta. Though it was treated severely, and performed but one night, at Covent Garden, it is written with a considerable degree of good sense and elegance"
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Covent Garden",
+      "location_1": "London",
+      "date_1": "02-18-1769",
+      "no_nights_1": "",
+      "theatre_manager_1": "George Colman",
+      "actors_1": [
+        {
+          "name": "",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The sister: a comedy",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": "1769",
+      "print_location": "London",
+      "publisher": [
+        "J. Dodsley",
+        "T. Davies"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "8vo",
+      "cost": 20,
+      "pages": 79,
+      "engravings": false,
+      "prologue_author": "Mr. Colman",
+      "epilogue_author": "Dr. Goldsmith",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "291",
+      "Biographia_dramatica": "B.D. S.320",
+      "ECD": "https://www-eighteenthcenturydrama-amdigital-co-uk.proxy.library.upenn.edu/Documents/SearchDetails/HL_LA_mssLA291",
+      "Kislak": "",
+      "Playbills": [
+
+      ],
+      "WPHP": "2441",
+      "ESTC": "T10798",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "07",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1141/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1141/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1141/manifest.json"
+  },
+  {
+    "pid": "1167",
+    "adaptid": [
+      "a082"
+    ],
+    "title": "The Pilot",
+    "author": "Edward Fitzball",
+    "author_gender": "male",
+    "year": "1825",
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "drama",
+    "genre": "nautical burletta",
+    "genre_standard": "melodrama",
+    "no_acts": 3,
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "1167.jpg",
+        "caption": "Thomas Potter Cooke as Jack Sykes in Edward Fitzball's 'Nelson'. National Portrait Gallery (D34097). Public Domain. From Wikimedia Commons."
+      }
+    ],
+    "general_notes": "",
+    "adap_notes": [
+      {
+        "note": "While the revolution of the American Colonies was past, it was not forgotten. The Colonists who had renounced their loyalty to Britain were traitors; all the more traitorous were those who left Britain at the beginning of the war to join the Americans. Such a traitor was John Paul Jones, especially dangerous to the British navy because of his skill in navigating the northern coast of Britain and steering clear of the hidden sand bars and rocky reefs and shoals. That hazardous coast is the setting for James Fennimore Cooper’s novel, The Pilot, a tale of John Paul Jones confronting storms and battling British ships.",
+        "source": "Frederick Burwick, Review, 'British Nautical Melodramas, 1820-1850' (2020)"
+      },
+      {
+        "note": "Fitzball’s adaptation, The Pilot; or A Tale of the Sea (Adelphi Theatre, 1825), met with two rival productions. Unlike the competition T. J. Dibdin encountered with The Pirate, rival versions of The Pilot appeared only in successive seasons. Fitzball’s version (Adelphi Theatre, 31 October 1825) was the first of the three adaptations of Cooper’s novel. Then came William Bayle Bernard’s The Pilot: A Tale of the Sea (Coburg Theatre, 17 July 1826), and third T. J. Dibdin’s Paul Jones; or, The Solway Mariner (Adelphi Theatre, 12 February 1827)",
+        "source": "Frederick Burwick, Review, 'British Nautical Melodramas, 1820-1850' (2020)"
+      },
+      {
+        "note": "[...]the most sympathetic portrayal of the misguided turncoat was Daniel Terry in the title role of Fitzball’s The Pilot. In playing the part of the Pilot, Terry conveyed a mental turmoil of doubts in portraying the character of a Scots seaman who had shifted his allegiances to the American navy. In spite of the charge that melodrama tended to oversimplify the nature of good and evil, Fitzball skillfully invested John Paul Jones with a convincing “tragic flaw.” As the Pilot in Fitzball’s adaptation, Terry could not expect shouts of approval, but he could hope to garner for the character a degree of sympathy and understanding. In spite of a prevailing British nationalism, the audience cheered the coxswain of the American schooner, Long Tom Coffin, played by Cooke.",
+        "source": "Frederick Burwick, Review, 'British Nautical Melodramas, 1820-1850' (2020)"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 2,
+      "same_author": false,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 1,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "In 'Remarks' to the play in Cumberland's Minor Theatre",
+        "source_details": "",
+        "source_pp": "",
+        "claim": "This dramatic piece is taken from the well-known tale of the Pilot, written by Mr. Cooper; and here we gladly seize the opportunity of speaking favourably of at least one transatlantic author"
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Adelphi Theatre",
+      "location_1": "",
+      "date_1": "10-10-1825",
+      "no_nights_1": "200",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "Thomas Potter Cooke",
+          "role": "Long Tom Coffin"
+        },
+        {
+          "name": "Mrs. Fitzwilliam",
+          "role": "Miss Katherine Plowden"
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+        "G. H. Rodwell"
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "Act I. - View of the Ocean off the American Coast. The 'Ariel' at Anchor. Room at Colonel Howard's. The Storm -- The 'Ariel.' Act II. Cabin of the 'Ariel'. Room at Colonel Howard's. Gun-Deck of The 'Ariel'. With Yarn, written by the late Captain Glasscock: And Hornpipe, by Long Tom. The Court, and Guard - House of Colonel Howard. Act III. Gothic Chamber, and Signal Tower. Rocky Pass near the Sea. The Ruins, Opening to the Sea, (Moonlight), The 'Ariel' lying in the distance. Combat, and escape of long Tom Coffin. The CAbin of the 'Ariel.' Room at Colonel Howard's. Last Scene - Aboard the 'Alacrity.' Arrival of the 'Ariel', and The British Flag Triumphant!!",
+          "source": "British Library Playbills. lsidyv414b3b94_double_1813-1850_Various_London_Theatres_merged_0043-43.txt"
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The Pilot: A Nautical Burletta, in three acts",
+      "printed_in_collection": true,
+      "collection_title": "Cumberland's Minor Theatre",
+      "print_year": "",
+      "print_location": "London",
+      "publisher": [
+        "John Cumberland"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": true,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": "Embellished with a portrait of Mr. T. P. Cooke, in the character of Long Tom Coffin. Engraved on Steel by Mr. Woolnoth, from an original Drawing, by Mr. Wageman"
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia_dramatica": "",
+      "ECD": "",
+      "Kislak": "",
+      "Playbills": [
+        "lsidyv414b3b94_double_1813-1850_Various_London_Theatres_merged_0043-43"
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "Adelphi Theatre Calendar",
+          "url": "https://www.umass.edu/AdelphiTheatreCalendar/img121f.htm"
+        },
+        {
+          "desc": "James Crane, Love and Liberty: A Transatlantic Adaptation of The Pilot",
+          "url": "https://jfcoopersociety.org/articles/ALA/2012ala-crane.html"
+        }
+      ]
+    },
+    "order": "08",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1167/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1167/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1167/manifest.json"
+  },
+  {
+    "pid": "1172",
+    "adaptid": [
+      "a084"
+    ],
+    "title": "The Black Castle; or the spectre of the forest",
+    "author": "C. F. Barrett",
+    "author_gender": "male",
+    "year": 1800,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "novella",
+    "adap_type": "adaptation",
+    "genre": "historical romance",
+    "genre_standard": "Romance",
+    "no_acts": "",
+    "musical_numbers": false,
+    "img": [
+      {
+        "id": "1172.jpg",
+        "caption": "'A woman dressed in white with blood on her dress is appearing to a man during a storm at night, in front of Gothic ruins'. Includes inscription: 'Sacred to the memory of the Murderhered Ravia,' from the drama. Aquatint, ca. 1850(?). Wellcome Collection. CC BY 4.0."
+      }
+    ],
+    "general_notes": "Published with Tracey Castle; or the Parricide Punished, a Gothic Story",
+    "adap_notes": [
+      {
+        "note": "",
+        "source": ""
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 1,
+      "same_author": false,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": "",
+      "additional_dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Printed play",
+        "source_details": "",
+        "source_pp": "",
+        "claim": "Founded on the spectacle of that name, performed at the Amphi-Theatre of Arts, with unbounded Applause, for Nearly One Hundred Nights."
+      }
+    ],
+    "Drama_data": {
+      "performed": false,
+      "theatre_1": "",
+      "location_1": "",
+      "date_1": "",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": "1800",
+      "print_location": "London",
+      "publisher": [
+        "S. Fisher",
+        "T. Hurst"
+      ],
+      "printer": [
+        "S. Fisher"
+      ],
+      "format": "12mo",
+      "cost": 6,
+      "pages": 48,
+      "engravings": true,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": "Engraving of: 'The Spectre of the murdered Ravia appearing before Carem & Simoustapha'"
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia_dramatica": "",
+      "ECD": "",
+      "Kislak": "",
+      "Playbills": [
+
+      ],
+      "WPHP": "",
+      "ESTC": "N15149",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "09",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1172/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1172/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1172/manifest.json"
+  },
+  {
+    "pid": "1175",
+    "adaptid": [
+      "a087"
+    ],
+    "title": "The Fair Circassian",
+    "author": "Samuel Jackson Pratt",
+    "author_gender": "male",
+    "year": "1781",
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "tragedy",
+    "genre_standard": "tragedy",
+    "no_acts": 5,
+    "musical_numbers": false,
+    "img": [
+      {
+        "id": "1175.jpg",
+        "caption": "'A moving Scene in the Fair Circassian'. Print by James Sayers. The British Museum (293068001). CC BY-NC-SA 4.0"
+      }
+    ],
+    "general_notes": "Scene Persia. In Larpent as 'The Circassian.",
+    "adap_notes": [
+      {
+        "note": "The original machinery has been rejected, because it would have been too daring an attempt to interweave it with the fable of a modern composition, and perhaps too mighty a task to manage without violating the first great law of dramatick probability. At the same time, it has been the author's most assiduous endeavour, to 'convert the sententious display of eastern wisdom, as far as character would permit, into the language of passion, varied by every motive which might most forcibly affect the human mind in the most warm and intersting situations.' These are the words of a critick, who seems fully to have penetrated the design of the author.",
+        "source": "Preface to printed work"
+      },
+      {
+        "note": "The fable and characters of this play are copied from Dr Hawkesworth's well-known tale of Almoran and Hamet; and they are copied with more exactness than is usual in the composition of a play. We mean not this as the slightest objection; as the art of giving life to the descriptions of a tale, is often much greater than that of contriving the tale itself.",
+        "source": "The Edinburgh Magazine, or, Literary Amusement, 02-20-1781"
+      },
+      {
+        "note": "[...] like its source, it makes shape-shifting integral to its action.",
+        "source": "James Watt, British Orientalisms (2019), pp. 107"
+      },
+      {
+        "note": "Pratt's work begins by outlining the recent division of the Persian throne between the brothers Almoran and Hamet after the death of their father, and in thus alluding to the ongoing American war the play conceives of Persia as a 'parallel universe' rather than as a place to be 'acted upon' by Europeans.",
+        "source": "James Watt, British Orientalisms (2019), pp. 107"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 20,
+      "same_author": false,
+      "translation": false,
+      "first_adap": false,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 2,
+      "additional_dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": true,
+      "changes_political_notes": "According to James Watt, British Orientalisms (2019), Pratt's play alludes to the American Revolutionary War. See adaptation note.",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Biographia Dramatica",
+        "source_details": "F.11",
+        "source_pp": "",
+        "claim": "This play is founded on Dr. Hawkeswroth's tale of Almoran and Hamet"
+      },
+      {
+        "source": "Preface to printed work",
+        "source_details": "1781",
+        "source_pp": "",
+        "claim": "This tragedy borrows its general story, and some of its incidents, with as much of its sentiment as could be preserved, from the very beautiful 'Almoran and Hamet' of Hawkesworth."
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Drury Lane",
+      "location_1": "London",
+      "date_1": "11-27-1781",
+      "no_nights_1": 26,
+      "theatre_manager_1": "Richard Brinsley Sheridan,",
+      "actors_1": [
+        {
+          "name": "William Smith",
+          "role": "Hamet"
+        },
+        {
+          "name": "Robert Benlley",
+          "role": "Omar"
+        },
+        {
+          "name": "Mr. Palmer",
+          "role": "Almoran"
+        },
+        {
+          "name": "Mr. Packer",
+          "role": "Ali"
+        },
+        {
+          "name": "Mr. Farren",
+          "role": "Caled"
+        },
+        {
+          "name": "Mr. R. Palmer",
+          "role": "Osmyn"
+        },
+        {
+          "name": "Mr. Wrighten",
+          "role": "Principal Iman"
+        },
+        {
+          "name": "Miss Farren",
+          "role": "Almeida"
+        },
+        {
+          "name": "Miss Simpson",
+          "role": "Crisanthe"
+        }
+      ],
+      "scenery_1": [
+        "Mr. De Loutherboug"
+      ],
+      "composer_1": [
+
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+        "Mr. De Loutherboug"
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "",
+          "source": ""
+        }
+      ],
+      "description_review": [
+        {
+          "description": "The incidents are well managed, and the interest and pathos are judiciously graduated, until poetic justice takes place in the death of Almoran, and the union of Hamet with the Fair Circassian. But the play would not suffer if almost every scene were pruned. The forte of the author is sentiment; and every occasion is studiously seized to say a pointed thing, or strew a beautiful flower. These are venial, because they are captivating faults; but they may denominate the piece of Sentimental Tragedy",
+          "source": "The Edinburgh Magazine, or, Literary Amusement",
+          "date": "12-20-1781"
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "The fair circassian: a tragedy. As performed at the Theatre-Royal, Drury-Lane",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": "1781",
+      "print_location": "London",
+      "publisher": [
+        "R. Baldwin"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "Richard FitzPatrick",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "576",
+      "Biographia_dramatica": "F.11",
+      "ECD": "https://www-eighteenthcenturydrama-amdigital-co-uk.proxy.library.upenn.edu/Documents/SearchDetails/HL_LA_mssLA576",
+      "Kislak": "Furness Collection. PR5189.P8 F347 1781",
+      "Playbills": [
+        "lsidyv3f9b9a08_1781-1785_Drury_Lane_Playbills_0160"
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "10",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1175/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1175/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1175/manifest.json"
+  },
+  {
+    "pid": "1211",
+    "adaptid": [
+      "a110"
+    ],
+    "title": "Paul Clifford",
+    "author": "Edward Fitzball",
+    "author_gender": "male",
+    "year": "1835",
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "adaptation",
+    "genre": "musical drama",
+    "genre_standard": "melodrama",
+    "no_acts": 3,
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "",
+        "caption": "Mr. Collins as Paul Clifford [performed in New York, c. 1840-60]. Billy Rose Theatre Division, The New York Public Library. 'Mr. Collins as Paul Clifford' The New York Public Library Digital Collections. 1840 - 1860. Free to use without restriction"
+      }
+    ],
+    "general_notes": "",
+    "adap_notes": [
+      {
+        "note": "In Fitzball's Paul Clifford, political conflict is transpoed into the private sphere of romantic love. Moreover, Fitzball rejects Bulwer-Lytton's sociological analysis of criminality, and emphasises Clifford's responsibility for his crimes Whereas, at the end of the novel Paul abandons England for the new, hopeful land of America, Fitzball depicts his hero departing on a patriotic mission to aid the Queen of Hungary. Here, the reintegration of Clifford into British society also sidesteps Bulwer-Lytton's biting social criticims: Fitzball's adaptation disolves the critique at the heart of this Newgate novel",
+        "source": "Jane Moody, 'Illegitimate Theatre in London, 1770-1840' (2007), pp.112"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 5,
+      "same_author": false,
+      "translation": false,
+      "first_adap": false,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 2,
+      "additional_dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": true,
+      "changes_political_notes": "According to Moody, removes much of the social criticism in the original novel. See adaptation note",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Jane Moody, 'Illegitimate Theatre in London, 1770-1840' (2007)",
+        "source_details": "",
+        "source_pp": "",
+        "claim": ""
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Covent Garden",
+      "location_1": "London",
+      "date_1": "",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "Mr. Collins",
+          "role": "Paul Clifford"
+        },
+        {
+          "name": "Sir William Brandon",
+          "role": "Lord Mauleverer"
+        },
+        {
+          "name": "Mr. Haines",
+          "role": "Mr. W. H. Williams"
+        }
+      ],
+      "scenery_1": [
+        "Mr. Marshall"
+      ],
+      "composer_1": [
+        "Mr. Rodwell",
+        "Mr. Blewitt"
+      ],
+      "machinery_1": [
+
+      ],
+      "costume_1": [
+
+      ],
+      "dance_1": [
+
+      ],
+      "description_playbill": [
+        {
+          "description": "'Many of your Lordships must recollect what used to take place on the Highroads, in the neighborhood of this Metropolis some years ago. Scarcely a carriage could pass without being robbed, and frequently the passengers were obliged to fight with, and give battle to the Highwaymen, who infested the Roads,' Duke of Wellington's Speech in the House of Lords",
+          "source": "lsidyv400e6de9_single_1834-1835_Covent_Garden_merged_0146"
+        },
+        {
+          "description": "Scenery, &c. - Interior of 'The Mug' Public-House. Chorus - 'The Cuckoo Clock.' and Song, 'Mother, give your boy a buss,' by Mr. Collins. Old London Bridge by Moonlight. Song - 'The Rosy Cheek,' by Mr. Manvers. Exterior of Old Covent Garden Theatre in the Year 1787. Terpsichore's Chamber. Song.... 'Men are all deceivers,' by Miss Turpin. The Court of Brdigeweel Prsion, and Garden Adjoining. Trio and Chorus- 'Over roofs and houses scrambling,' Messrs. Collins, Vale, C. Hill, &c. The 'Jolly Angler' Alehouse. Chorusses... 'Hip! Hip! Hip! Hurrah!' and 'The Stirrup Cup'. Interior of Doctor Slopperton's House in the Country. Balla, 'Phillis hare you seen my love?' by Miss Taylor... Ballad, 'I Saw him but once,' by Miss Turpin. Copse and Abbey Ruins, by Moonlight, with Distant Heath. 'Blue Fly,' (Bath Post Coach) drawn by Real Horses. Stopped and attacked by Paul Clifford and Highwaymen. Song -'The road! the ruin!' by Mr. Collins. Corus. - 'Good night, my lord.' Ball-Room in Lord Mauleverer's House. - Dance and Chorus, 'The Fairy round.' Entrance to the Tower of London by St. Thomas' Gate. View on the Thames, Shipping, &c. - Departure of Paul Clifford for the Hungarian Wars.",
+          "source": "lsidyv400e6de9_single_1834-1835_Covent_Garden_merged_0146"
+        }
+      ],
+      "description_review": [
+        {
+          "description": "The truth is, that when at the Surrey, Osbaldiston won the hearts of all the pickpockets, by the amiable light in which he placed all criminals in his pieces, from the wholesale cut throat to the retailer of pocket handkerchiefts; and the whole fraternity of thieves have stuck to him, and will stick to him, so long as he is in management. It is, of course, in compliment to this class, that 'Paul Clifford' has been produced; and in fact, the whole series of Fitzball's dramatic effusions are intended as literary offerings to the thieves of the metropolis.",
+          "source": "Figaro in London (Vol. 5, Issue 226)",
+          "date": "04-02-1836"
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "print_title": "",
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_year": "1835",
+      "print_location": "London",
+      "publisher": [
+        "T.H. Lacy"
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": 44,
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": false,
+      "songbook_advertised_playbill": false,
+      "title": "",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": "",
+      "cost_pence": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": ""
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia_dramatica": "",
+      "ECD": "",
+      "Kislak": "",
+      "Playbills": [
+        "lsidyv400e6de9_single_1834-1835_Covent_Garden_merged_0146",
+        "lsidyv400d85a1_single_1835-1836_Covent_Garden_with_Polish_Refugee_Benefit_merged_0003"
+      ],
+      "LS": "",
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "New York Public Library Digital Collections",
+          "url": "https://digitalcollections.nypl.org/items/510d47dd-ec92-a3d9-e040-e00a18064a99"
+        },
+        {
+          "desc": "Toy Theatre Adaptation, held at Yale Center for British Art",
+          "url": "https://collections.britishart.yale.edu/catalog/orbis:14581399"
+        }
+      ]
+    },
+    "order": "11",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1211/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1211/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1211/manifest.json"
+  },
+  {
+    "pid": "1006",
+    "adaptid": [
+      "a012",
+      "a037"
+    ],
+    "title": "Raymond and Agnes; or, The Castle of Lindenberg",
+    "author": "Charles Farley",
+    "author_gender": "male",
+    "year": 1797,
+    "location": "UK",
+    "language": "English",
+    "adap_form": "drama",
+    "adap_type": "selective",
+    "genre": "Grand Ballet Pantomime of Action",
+    "genre_standard": "Ballet",
+    "no_acts": "",
+    "musical_numbers": true,
+    "img": [
+      {
+        "id": "",
+        "caption": ""
+      }
+    ],
+    "general_notes": "First performed in Covent Garden, in 1797. The first 15 playbills reference that the play is an adaptation; beginning with the 16th playbill (on April 27, 1797), the adaptation claim is removed. In 1804, renamed from 'Raymond and Agnes; or, The Castle of Lindenbergh' to 'Raymond and Agnes; or, The Bleeding Nun' on Nov. 10, 1804. See playbill file: lsidyv3fa2b940_1804-1806_Covent_Garden_Playbills_0038",
+    "adap_notes": [
+      {
+        "note": "Farley's Raymond and Agnes provided a model for later adaptations of Lewis's romance, most of which focused on the story of Don Raymond at the expense of that of Ambrosio",
+        "source": "Michael Gamer, The Cambridge Companion to English Melodrama (2018), pp. 40"
+      },
+      {
+        "note": "In order to shape the Episode of Raymond and Agnes, from the romance of the Monk, for dramatic effect, the situation in which the Countess (step-mother of Agnes) is placed in the cottage, according to the romance, is now occupied by Agnes. Another variation occurs in making the Nun, whose Spectre appears, the mother of Agnes, and former Countess of Lindenbergh",
+        "source": "Preface to printed play, 1797"
+      }
+    ],
+    "Adapt_data": {
+      "years_between": 28,
+      "same_author": false,
+      "translation": false,
+      "first_adap": true,
+      "adap_of_adap": {
+        "is": false,
+        "via_translation": false,
+        "adap_of": ""
+      },
+      "adap_seq": 1,
+      "dramatic_source": false,
+      "dramatic_source_notes": "",
+      "changes_political": false,
+      "changes_political_notes": "",
+      "changes_comedic_add": false,
+      "changes_comedic_remove": false,
+      "changes_comedic_notes": ""
+    },
+    "Claim": [
+      {
+        "source": "Playbill",
+        "source_details": "lsidyv3fa2b601_1796-1798_Covent_Garden_Playbills_0139",
+        "source_pp": "CG, 16 March 1797",
+        "claim": "Founded chiefly on a principal Episode in the Romance of the Monk"
+      },
+      {
+        "source": "Biographia Dramatica",
+        "source_details": "BD R.25",
+        "source_pp": "193",
+        "claim": "This is really a very interesting performance; and is chiefly taken from Mr. Lewis's novel called 'The Monk', and Dr. Smollett's 'Count Fathom'."
+      }
+    ],
+    "Drama_data": {
+      "performed": true,
+      "theatre_1": "Covent Garden",
+      "location_1": "London",
+      "date_1": "03-16-1797",
+      "no_nights_1": "",
+      "theatre_manager_1": "",
+      "actors_1": [
+        {
+          "name": "Mr. Farley",
+          "role": ""
+        },
+        {
+          "name": "Mr. Folleit",
+          "role": ""
+        }
+      ],
+      "scenery_1": [
+        "Mr. Phillips",
+        "Mr. Hollogan",
+        "Mr. Blackmore",
+        "Mr. Thorne",
+        "Mr. Byrn"
+      ],
+      "composer_1": [
+        "Mr. Reeve"
+      ],
+      "machinery_1": [
+        "Mr. Croswell",
+        "Mr. Sloper"
+      ],
+      "costume_1": [
+        "Mr. Dick",
+        "Mr. Goostree",
+        "Mrs. Egan"
+      ],
+      "description_playbill": [
+        {
+          "description": "SCENE, A Gothic Library in the Castle of Don Felix,--Raymond discovered at his studies, is interrupted by the entrance of Don Felix (his father), who informs him 'tis his wish he should go upon his travels; Theodore, his favorite domestic, intreats to accompany him.-- Scene, Madrid; with a View of an Hotel and a Convent.-- PROCESSION of NUNS and FRIARS--CHORUS-- Agnes, the daughter of Count Lindenbergh, discovered at the lattice -Raymond and Theodore enter, order refreshments from the Hotel, and proceed on their journey, under the guidance of Claud, one of a banditti infesting the neighboring Forest.  --Scene, a Forest at Midnight, with a distant Hovel. -Enter Baptist (one of the Banditti) disguised as a woodman-The carriage with Raymond and Theodore is seen to break down-- Claud, pointing to the Hovel, informs them they may there find shelter for the night.-- Scene, the Inside of the Hovel.-- Maugerette and her Child discovered. Raymond and Theodore are introduced by Baptist-- Theodore is shewn to his room by Maugerette-- Robert and Jaques (sons to Baptist) enter armed, making a servile obedience to Raymond, who is conducted to his Chamber by Robert.-- Scene, the Bed room prepared for Raymond.-- Maugerette wishing to preserve the life of Raymond from the assassins, conveys a Pillow stained with blood upon his bed, thereby to inform him of his danger-- she conceals herself-- Raymond retires to rest, but is prevented by finding the bloody Pillow, and struck with horror, falls into a swoon-- Robert enters-- Attempts to murder him-- Is prevented by Maugerette-- and Raymond, at her request, retires.-- Scene the Lower Apartment of the Hovel.-- Robert informs his father and brother of the ineffectual attempt on the life of Raymond who is brought in by Maugerette-- A knocking is heard without-- Agnes (who has been also benighted in the forest) is led in by Claud, attended by Servants-- Supper is prepared-- Opiates are mixed with the wine-- Agnes drinks, and falls into a slumber-- Maugerette begs Raymond not to drink, but to put on the semblance of sleep-- Baptist sends Robert and Jaques to secure the servants, who have retired; and supposing Raymond at rest, prepares to murder him-- Raymond seizes him, and Baptist falls by the hand of Maugerette-- who points our a secret avenue; through which she, taking her child, Raymond and Agnes escape, followed by Theodore.-- Scene, Inside Lindenbergh Castle-- The mother of Agnes, the late Countess pourtrayed in the habit of a Nun.-- The Count discovered viewing the picture with agitation-- Kneels to implore forgiveness for the Murder.-- Agnes brought in by Raymond, is introduced to the present Countess- she becomes enamored of him, offers him her Picture, which he rejects with scorn.-- Scene, the Chamber of Agnes-- Portrait of a Nun, with a wound upon her breast, a Lamp, Dagger, and a Rosary on her arm.-- Agnes enamoured of Raymond, enters, and prepares to draw his Portrait- Raymond entering unperceived, throws himself at her feet, and obtains a promise of her hand-- He requests an explanation of the picture of the bleeding Nun-- She informs him (in a Song) 'tis the resemblance of a Spectre which haunts the Castle every fifth year.-- The Count and Countess approach; and in anger order Raymond to quit the castle-- Scene, the Outside of the Castle-- Raymond, bud to depart, is diverted by the sound of a Mandoline-- A paper is lowered by Agnes from the Castle, containing a drawing of the Nun, with the following Scrole:-- 'When the cattle-bell tolls One,- Expect me like this bleeding Nun.'-- Scene, the Outside of the Castle as before- Raymond descends the Wall- the Clock strikes One- the Gates fly open- the apparition of the Nun comes from the Castle- Raymond (supposing it Agnes) follows it exactly- Theodore approaching, is met by Agnes in the habit of the Nun- agitated by the apparent neglect of Raymond, they retire.-- Scene, a Dreary Wood- Raymond following the specter (still supposing it Agnes) attempts to embrace it, when suddenly vanishing, a Cloud rises from the earth bearing the following inscription:-- 'PROTECT the CHILD of the MURDER'D AGNES.'-- Scene, the Mountains-- Robert, Jacques, and Claud (the Robbers) discovered a the grave of Baptist- Theodore and Agnes enter- Agnes is seized and borne into the Cavern.-- Scene, a Wood- Theodore and Maugerette meet Raymond, and inform him of Agnes being seized by the Robbers- They hasten to her rescue.-- Scene, Inside of the Cavern.-- The three Robbers cast lots for the possession of Agnes- She becomes the prize of Robert- He attempts to seize her- She resisting, he aims a stiletto at her breast- At this instant Raymond, Theodore, and Maugerette rush in- Robert falls by the dagger of Raymond- Jaques by the sword of Theodore- and Claud by a pistol form the hand of Maugerette.-- Scene the Castle of Don Felix.-- Raymond presents Agnes to his Father, who joins their hands; and the Piece concludes with A FINALE and SPANISH FANDANGO.",
+          "source": "lsidyv3fa2b601_1796-1798_Covent_Garden_Playbills_0139"
+        }
+      ],
+      "description_review": [
+        {
+          "description": "",
+          "source": "",
+          "date": ""
+        }
+      ],
+      "no_performances_LS": "",
+      "London_Stage": "",
+      "Drama_data_notes": ""
+    },
+    "Print_data": {
+      "printed": true,
+      "printed_in_collection": false,
+      "collection_title": "",
+      "print_title": "",
+      "print_year": "",
+      "print_location": "",
+      "publisher": [
+        ""
+      ],
+      "printer": [
+        ""
+      ],
+      "format": "",
+      "cost": "",
+      "pages": "",
+      "engravings": false,
+      "prologue_author": "",
+      "epilogue_author": "",
+      "notes": ""
+    },
+    "Songbook": {
+      "printed_songbook": true,
+      "songbook_advertised_playbill": false,
+      "title": "Airs, glees, and chorusses in a new grand ballet pantomime of action, called Raymond and Agnes; or the Castle of Lindenbergh. Composed by Mr. Farley. Now performing at the Theatre-Royal Covent-Garden",
+      "no_songs": "",
+      "sheet_music": false,
+      "pages": 34,
+      "cost_pence": 6,
+      "print_location": "London",
+      "publisher": [
+        "T. Woodfall"
+      ],
+      "printer": [
+        ""
+      ],
+      "print_year": "",
+      "notes": "Containing a 5 page summary of the scenes, the dramatis personae from Covent Garden, and Airs. Printed before text: 'In order to shape the Episode of Raymond and Agnes, from the romance of the Monk, for dramatic effect, the situation in which the Countess (step-mother of Agnes) is placed in the cottage, according to the romance, is now occupied by Agnes. Another variation occurs in making the Nun, whose Spectre appears, the mother of Agnes, and former Countess of Lindenbergh.'"
+    },
+    "Databases": {
+      "Larpent": "",
+      "Biographia_dramatica": "R.24",
+      "ECD": "",
+      "Kislak": "",
+      "Playbills": [
+        "lsidyv3fa2b601_1796-1798_Covent_Garden_Playbills_0139"
+      ],
+      "WPHP": "",
+      "ESTC": "",
+      "links": [
+        {
+          "desc": "",
+          "url": ""
+        }
+      ]
+    },
+    "order": "12",
+    "layout": "qatar_item",
+    "collection": "adaptations",
+    "thumbnail": "/img/derivatives/iiif/images/1006/full/250,/0/default.jpg",
+    "full": "/img/derivatives/iiif/images/1006/full/1140,/0/default.jpg",
+    "manifest": "/img/derivatives/iiif/1006/manifest.json"
+  }
+]

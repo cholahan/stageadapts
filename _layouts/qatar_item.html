@@ -3,21 +3,29 @@ layout: generic_collection_item
 image_viewer: 'openseadragon'
 pagination: true
 meta:
-  - label: 'Label'
-    value: page.label
-  - label: 'Artist'
-    value: page.artist
-  - label: 'Type'
-    value: page.object_type
+  - label: 'Title'
+    value: page.title
+  - label: 'Author'
+    value: page.author
+  - label: 'Year'
+    value: page.year
+  - label: 'Adaptation Form'
+    value: page.adap_form
+  - label: 'Genre'
+    value: page.genre
+  - label: 'Genre (standardized)'
+    value: page.genre_standard
+  - label: 'Adaptation Type'
+    value: page.adap_type
   - label: 'Location'
     value: page.location
-  - label: 'Current Location'
-    value: page.current_location
-  - label: 'Date'
-    value: page._date
-  - label: 'Source'
-    value: page.source
-    type:  link
+  - label: 'Language'
+    value: page.language
+  - label: 'General Notes'
+    value: page.general_notes.note
+  - label: 'Adaptation Notes'
+    value: page.adap_notes
+    type: loop
   - label: 'IIIF Manifest'
     value: page.manifest
     type:  link
