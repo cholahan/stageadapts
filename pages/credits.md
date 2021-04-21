@@ -4,7 +4,7 @@ title: Credits
 permalink: '/credits/'
 ---
 
-__Novel(ty) on Stage__ is a database project created by [Cassidy Holahan](https://www.cassidyholahan.com).
+_Novel(ty) on Stage_ is a database project created by [Cassidy Holahan](https://www.cassidyholahan.com).
 
 This project was created by support from the [Price Lab for Digital Humanities](https://pricelab.sas.upenn.edu/) at the University of Pennsylvania during a Mellon Mid-Doctoral Fellowship from 2020-21. 
 
