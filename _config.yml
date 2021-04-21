@@ -22,7 +22,7 @@ title:            'Novel(ty) on Stage'
 description:      'Eighteenth-century Stage Adaptations'
 url:              'https://minicomp.github.io'
 baseurl:          '/wax'
-copyright:        'Example copyright org, 2019'
+copyright:        'Creative Commons License Attribution-NonCommercial 4.0 International, 2021'
 logo:             '/assets/logo.png'
 
 # ---------------------------------------------------------------
@@ -132,7 +132,7 @@ footer:
     - label: 'GitHub'
       link: 'https://github.com/cholahan'
     - label: 'About'
-      link: '/about/'
+      link: '/project/'
   logos:
     - img: '/img/logo.png'
 
