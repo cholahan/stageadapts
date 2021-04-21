@@ -7,4 +7,4 @@ permalink: /originals/
 This site currently holds a small sample of 'originals' (from which the apaptations are based). 
 
 
-{% include collection_gallery.html collection='originals' facet_by='object_type' %}
+{% include collection_gallery.html collection='originals' facet_by='form' %}
