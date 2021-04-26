@@ -50,13 +50,32 @@
   {% endfor %}
 
 <dd>
-  <b>{{'Adaptation Notes'}}</b><br>{% for i in page.adap_notes %}
-  {{ '- ' }}{{ i.note }} {{'( Source: ''}}{{i.source}}{{')'}}<br>
-  {% endfor %}<br>
-  <b>{{'Adaptation Claims'}}</b><br>{% for c in page.Claim %}
-  <i>{{ 'Claim: ' }}</i> {{c.claim}}<br>
-  {{ '- Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}<br>
+  <b>{{'Adaptation Data'}}</b><br>
+  &emsp;<i>{{'Years between original and adaptation:'}}&ensp;</i>{{ page.Adapt_data.years_between }}<br>
+  &emsp;<i>{{'Same author as original: '}}</i>&ensp;{{ page.Adapt_data.same_author }}<br><br>
+
+  {% if page.Drama_data.performed == true %}
+    <b>{{'Performance Data'}}</b><br>
+    &#8201;&emsp;<i>{{'Theatre:'}}&ensp;</i>{{ page.Drama_data.theatre_1 }}<br>
+    &#8201;&emsp;<i>{{'Location:'}}</i>&ensp;{{ page.Drama_data.location_1 }}<br>
+    &emsp;{% if page.Drama_data.date_1 != "" %}
+    <i>{{'First performance:'}}</i>&ensp;{{ page.Drama_data.date_1 }}
+    {% endif %}<br>
+    &emsp;{% if page.Drama_data.theatre_manager_1 != "" %}
+    <i>{{'Theatre Manager:'}}</i>&ensp;{{ page.Drama_data.theatre_manager_1 }}
+    {% endif %}<br>
+
+
+  {% endif %}
+
+  <br><b>{{'Adaptation Notes'}}</b><br>{% for i in page.adap_notes %}
+  <ul><li>{{ i.note }} {{'( Source: ''}}{{i.source}}{{')'}}</li></ul>
   {% endfor %}
+  <b>{{'Adaptation Claims'}}</b><br>{% for c in page.Claim %}
+  <ul><li> {{c.claim}}</li>
+  {{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</ul>
+  {% endfor %}
+
 
 </dd>
 
