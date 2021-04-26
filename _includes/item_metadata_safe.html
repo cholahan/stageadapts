@@ -25,10 +25,16 @@
             {% endfor %}
           </ol>
         </dd>
-      {% comment %}
-      end of loop block
-      {% endcomment %}
-      {% elsif item.type == 'link' %}
+      {% endif %}
+    {% endif %}
+
+
+
+    {% comment %}
+    Only display non-empty values
+    {% endcomment %}
+    {% if value | strip != '' %}
+      {% if item.type == 'link' %}
         {% if key == 'manifest' %}
           {%- capture value -%}
             <a href="{{ value | absolute_url }}" target="_blank" rel="noreferrer">{{ value | absolute_url }}</a>
@@ -40,24 +46,9 @@
             </a>
           {%- endcapture -%}
         {% endif %}
-        <dt>{{ item.label }}</dt>
-        <dd>{{ value | strip }}</dd>
-      {% else %}
-        <dt>{{ item.label }}</dt>
-        <dd>{{ value | strip }}</dd>
       {% endif %}
+        <dt>{{ item.label }}</dt>
+        <dd>{{ value | strip }}</dd>
     {% endif %}
   {% endfor %}
-
-<dd>
-  <b>{{'Adaptation Notes'}}</b><br>{% for i in page.adap_notes %}
-  {{ '- ' }}{{ i.note }} {{'( Source: ''}}{{i.source}}{{')'}}<br>
-  {% endfor %}<br>
-  <b>{{'Adaptation Claims'}}</b><br>{% for c in page.Claim %}
-  <i>{{ 'Claim: ' }}</i> {{c.claim}}<br>
-  {{ '- Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}<br>
-  {% endfor %}
-
-</dd>
-
 </dl>
