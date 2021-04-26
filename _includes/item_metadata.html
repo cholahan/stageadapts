@@ -59,12 +59,35 @@
     &#8201;&emsp;<i>{{'Theatre:'}}&ensp;</i>{{ page.Drama_data.theatre_1 }}<br>
     &#8201;&emsp;<i>{{'Location:'}}</i>&ensp;{{ page.Drama_data.location_1 }}<br>
     &emsp;{% if page.Drama_data.date_1 != "" %}
-    <i>{{'First performance:'}}</i>&ensp;{{ page.Drama_data.date_1 }}
-    {% endif %}<br>
+    <i>{{'First performance:'}}</i>&ensp;{{ page.Drama_data.date_1 }}<br>
+    {% endif %}
     &emsp;{% if page.Drama_data.theatre_manager_1 != "" %}
-    <i>{{'Theatre Manager:'}}</i>&ensp;{{ page.Drama_data.theatre_manager_1 }}
-    {% endif %}<br>
+    <i>{{'Theatre Manager:'}}</i>&ensp;{{ page.Drama_data.theatre_manager_1 }}<br>
+    {% endif %}
+    {% if page.Drama_data.Drama_data_notes != "" %}
+    <br><b>{{'Performance Notes:'}}</b>&ensp;{{ page.Drama_data.Drama_data_notes }}<br>
+    {% endif %}
+  {% endif %}
 
+  {% if page.Print_data.printed == true %}
+    <br><b>{{'Publication Data'}}</b><br>
+    &#8201;&emsp;<i>{{'Title:'}}</i>&ensp;{{'"'}}{{ page.Print_data.print_title }}{{'"'}}<br>
+    &#8201;&emsp;<i>{{'Publication Year:'}}</i>&ensp;{{ page.Print_data.print_year }}<br>
+    &emsp;{% if page.Print_data.print_location != "" %}
+    <i>{{'Publication Location:'}}</i>&ensp;{{ page.Print_data.print_location }}<br>
+    {% endif %}
+    &emsp;{% if page.Print_data.publisher != "" %}
+      <i>{{'Publisher:'}}</i>&ensp;
+      {% for p in page.Print_data.publisher %}
+        {{p}}{{', '}}
+      {% endfor %}<br> 
+    {% endif %}
+    &emsp;{% if page.Print_data.format != "" %}
+    <i>{{'Publication Format:'}}</i>&ensp;{{ page.Print_data.format }}<br>
+    {% endif %}
+    &emsp;{% if page.Print_data.cost != "" %}
+    <i>{{'Sale price:'}}</i>&ensp;{{ page.Print_data.cost }}{{' pence'}}<br>
+    {% endif %}
 
   {% endif %}
 
