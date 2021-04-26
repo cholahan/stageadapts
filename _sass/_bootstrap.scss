@@ -105,10 +105,15 @@ address {
 }
 
 ol,
-ul,
 dl {
   margin-top: 0;
   margin-bottom: 1rem;
+}
+
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 100%
 }
 
 ol ol,

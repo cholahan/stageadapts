@@ -51,15 +51,21 @@
 
 <dd>
   <b>{{'Adaptation Data'}}</b><br>
+  &emsp;<i>{{'Original: '}}</i>
+  {% for a in page.adaptid %}
+    {{ a | link_to: 'http://localhost:4000/wax/','Original' }}<br>
+  {% endfor %}
+    
   &emsp;<i>{{'Years between original and adaptation:'}}&ensp;</i>{{ page.Adapt_data.years_between }}<br>
   &emsp;<i>{{'Same author as original: '}}</i>&ensp;{{ page.Adapt_data.same_author }}<br><br>
+  
 
   {% if page.Drama_data.performed == true %}
     <b>{{'Performance Data'}}</b><br>
     &#8201;&emsp;<i>{{'Theatre:'}}&ensp;</i>{{ page.Drama_data.theatre_1 }}<br>
     &#8201;&emsp;<i>{{'Location:'}}</i>&ensp;{{ page.Drama_data.location_1 }}<br>
     &emsp;{% if page.Drama_data.date_1 != "" %}
-    <i>{{'First performance:'}}</i>&ensp;{{ page.Drama_data.date_1 }}<br>
+    <i>{{'First performance:'}}</i>&ensp;{{ page.Drama_data.date_1 | date: "%b %d, %y" }}<br>
     {% endif %}
     &emsp;{% if page.Drama_data.theatre_manager_1 != "" %}
     <i>{{'Theatre Manager:'}}</i>&ensp;{{ page.Drama_data.theatre_manager_1 }}<br>
@@ -72,32 +78,68 @@
   {% if page.Print_data.printed == true %}
     <br><b>{{'Publication Data'}}</b><br>
     &#8201;&emsp;<i>{{'Title:'}}</i>&ensp;{{'"'}}{{ page.Print_data.print_title }}{{'"'}}<br>
-    &#8201;&emsp;<i>{{'Publication Year:'}}</i>&ensp;{{ page.Print_data.print_year }}<br>
-    &emsp;{% if page.Print_data.print_location != "" %}
-    <i>{{'Publication Location:'}}</i>&ensp;{{ page.Print_data.print_location }}<br>
+    {% if page.Print_data.print_year != "" %}
+      &#8201;&emsp;<i>{{'Publication Year:'}}</i>&ensp;{{ page.Print_data.print_year }}<br>
     {% endif %}
-    &emsp;{% if page.Print_data.publisher != "" %}
-      <i>{{'Publisher:'}}</i>&ensp;
+    {% if page.Print_data.print_location != "" %}
+      &emsp;<i>{{'Publication Location:'}}</i>&ensp;{{ page.Print_data.print_location }}<br>
+    {% endif %}
+    {% if page.Print_data.publisher != "" %}
+      &emsp;<i>{{'Publisher:'}}</i>&ensp;
       {% for p in page.Print_data.publisher %}
         {{p}}{{', '}}
       {% endfor %}<br> 
     {% endif %}
-    &emsp;{% if page.Print_data.format != "" %}
-    <i>{{'Publication Format:'}}</i>&ensp;{{ page.Print_data.format }}<br>
+    {% if page.Print_data.format != "" %}
+    &emsp;<i>{{'Publication Format:'}}</i>&ensp;{{ page.Print_data.format }}<br>
     {% endif %}
-    &emsp;{% if page.Print_data.cost != "" %}
-    <i>{{'Sale price:'}}</i>&ensp;{{ page.Print_data.cost }}{{' pence'}}<br>
+    {% if page.Print_data.cost != "" %}
+    &emsp;<i>{{'Sale price:'}}</i>&ensp;{{ page.Print_data.cost }}{{' pence'}}<br>
     {% endif %}
-
   {% endif %}
 
-  <br><b>{{'Adaptation Notes'}}</b><br>{% for i in page.adap_notes %}
-  <ul><li>{{ i.note }} {{'( Source: ''}}{{i.source}}{{')'}}</li></ul>
-  {% endfor %}
-  <b>{{'Adaptation Claims'}}</b><br>{% for c in page.Claim %}
-  <ul><li> {{c.claim}}</li>
-  {{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</ul>
-  {% endfor %}
+  {% if page.Songbook.printed_songbook == true %}
+  <br><b>{{'Printed Songbook Data'}}</b><br>
+  &emsp;{% if page.Songbook.songbook_advertised_playbill == true %}
+    <i>{{'Sale of songbook advertised in playbill:'}}</i>&ensp;{{ page.Songbook.songbook_advertised_playbill }}<br>
+  {% endif %}
+  {% if page.Songbook.title != "" %}
+  &emsp;<i>{{'Title:'}}</i>&ensp;{{ page.Songbook.title }}<br>
+  {% endif %}
+  {% if page.Songbook.publisher != "" %}
+  &emsp;<i>{{'Publisher:'}}</i>&ensp;{{ page.Songbook.publisher }}<br>
+  {% endif %}
+  {% if page.Songbook.print_year != "" %}
+  &emsp;<i>{{'Publication Year:'}}</i>&ensp;{{ page.Songbook.print_year }}<br>
+  {% endif %}
+  {% if page.Songbook.no_songs != "" %}
+  &emsp;<i>{{'Number of Songs:'}}</i>&ensp;{{ page.Songbook.no_songs }}<br>
+  {% endif %}
+  {% if page.Songbook.cost_pence != "" %}
+  &emsp;<i>{{'Sale price:'}}</i>&ensp;{{ 'page.Print_data.cost' }}{{' pence'}}<br>
+  {% endif %}
+{% endif %}
+
+
+  {% if page.adap_notes != nil %}
+    <br><b>{{'Adaptation Notes'}}</b><br>
+    {% for i in page.adap_notes %}
+      <ul><li>{{ i.note }} 
+      {% if i.source != "" %}
+        <ul><li>{{'Source: ''}}{{i.source}}</li></ul>
+      {% endif %}</li></ul>
+    {% endfor %}
+  {% endif %}
+
+  <br>{% if page.Claim != "" %}
+    <b>{{'Adaptation Claims'}}</b><br>
+    <ul>{% for c in page.Claim %}
+      <li> {{c.claim}}</li>
+        {% if c.source != "" %}
+          <ul><li>{{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</li></ul>
+        {% endif %}
+    {% endfor %}</ul>
+  {% endif %}
 
 
 </dd>
