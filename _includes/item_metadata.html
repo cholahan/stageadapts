@@ -53,11 +53,11 @@
   <b>{{'Adaptation Data'}}</b><br>
   &emsp;<i>{{'Original: '}}</i>
   {% for a in page.adaptid %}
-    {{ a | link_to: 'http://localhost:4000/wax/','Original' }}<br>
+    {{ a | link_to: 'http://localhost:4000/wax/' }}<br>
   {% endfor %}
     
   &emsp;<i>{{'Years between original and adaptation:'}}&ensp;</i>{{ page.Adapt_data.years_between }}<br>
-  &emsp;<i>{{'Same author as original: '}}</i>&ensp;{{ page.Adapt_data.same_author }}<br><br>
+  &emsp;<i>{{'Same author as original: '}}</i>&ensp;{{ page.Adapt_data.same_author }}<br>
   
 
   {% if page.Drama_data.performed == true %}
