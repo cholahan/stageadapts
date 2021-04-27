@@ -71,7 +71,7 @@
     <i>{{'Theatre Manager:'}}</i>&ensp;{{ page.Drama_data.theatre_manager_1 }}<br>
     {% endif %}
     {% if page.Drama_data.Drama_data_notes != "" %}
-    <br><b>{{'Performance Notes:'}}</b>&ensp;{{ page.Drama_data.Drama_data_notes }}<br>
+    <br><b>{{'Performance Notes'}}</b><br>{{ page.Drama_data.Drama_data_notes }}<br>
     {% endif %}
   {% endif %}
 
@@ -103,6 +103,9 @@
     {% if page.Print_data.cost != "" %}
     &emsp;<i>{{'Sale price:'}}</i>&ensp;{{ page.Print_data.cost }}{{' pence'}}<br>
     {% endif %}
+  {% else %}
+    <br><b>{{'Publication Data'}}</b><br>
+    {{'No print edition was published during the eighteenth century'}}<br>
   {% endif %}
 
   {% if page.Songbook.printed_songbook == true %}
@@ -143,12 +146,22 @@
     {% for i in page.Drama_data.description_playbill %}
       <ul><li>{{ i.description }} 
         {% if i.source != "" %}
-          <ul><li>{{'Source: British Library Playbill ''}}{{i.source}}</li></ul>
+          <ul><li>{{'Source: ''}}{{i.source}}
+          {% if i.source_details != "" %}
+            {{'('}}{{i.source_details}}{{')'}}
+          {% endif %}
+          {% if i.theatre != "" %}
+            {{'('}}{{i.theatre}}{{')'}}
+          {% endif %}
+          {% if i.date != "" %}
+            {{'('}}{{i.date}}{{')'}}
+          {% endif %}
+          </li></ul>
         {% endif %}</li></ul>
     {% endfor %}
   {% endif %}
 
-  
+
   <br>{% if page.Claim != "" %}
     <b>{{'Adaptation Claims'}}</b><br>
     <ul>{% for c in page.Claim %}
