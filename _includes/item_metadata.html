@@ -147,13 +147,13 @@
       <ul><li>{{ i.description }} 
         {% if i.source != "" %}
           <ul><li>{{'Source: ''}}{{i.source}}
-          {% if i.source_details != "" %}
+          {% if i.source_details and i.source_details != "" %}
             {{'('}}{{i.source_details}}{{')'}}
           {% endif %}
-          {% if i.theatre != "" %}
+          {% if i.theatre and i.theatre != "" %}
             {{'('}}{{i.theatre}}{{')'}}
           {% endif %}
-          {% if i.date != "" %}
+          {% if i.date and i.date != "" %}
             {{'('}}{{i.date}}{{')'}}
           {% endif %}
           </li></ul>
@@ -168,12 +168,18 @@
       {% if c.claim != "" %}
       <li> {{c.claim}}</li>
         {% if c.source != "" %}
-          <ul><li>{{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</li></ul>
+        <ul><li>{{ 'Source: '}} {{ c.source}}
+          {% if c.source_details != "" %}  
+            {{'('}}{{c.source_details}}{{')'}}
+          {% endif %}</li></ul>
         {% endif %}
       {% elsif c.claim == "" and c.source != "" %}
       <li> {{'Text is an adaptation'}}</li>
         {% if c.source != "" %}
-          <ul><li>{{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</li></ul>
+          <ul><li>{{ 'Source: '}} {{ c.source}}
+          {% if c.source_details != "" %}  
+            {{'('}}{{c.source_details}}{{')'}}
+          {% endif %}</li></ul>
         {% endif %}
       {% else %}
         <li> {{'It is evident the text is an adaptation from its title'}}</li>
