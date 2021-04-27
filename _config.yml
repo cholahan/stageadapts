@@ -21,7 +21,7 @@
 title:            'Novel(ty) on Stage'
 description:      'Eighteenth-century Stage Adaptations'
 url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+baseurl:          '/stageadapts'
 copyright:        'Creative Commons License Attribution-NonCommercial 4.0 International, 2021'
 logo:             '/assets/logo.png'
 
@@ -119,8 +119,8 @@ menu:
         link: '/credits/'
   - label: 'Browse'
     link: '/collection/'
-  - label: 'Search'
-    link: '/search/'
+  # - label: 'Search'
+  #  link: '/search/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS

@@ -187,8 +187,37 @@
         {% endif %}
       {% endfor %}</ul>
     {% endif %}
+
   {% else %}
-    
+    {% if page.publication.published == true %}
+    <b>{{'Publication Data'}}</b><br>
+    &#8201;&emsp;<i>{{'Title:'}}</i>&ensp;{{'"'}}{{ page.title }}{{'"'}}<br>
+    {% if page.publication.print_location != "" %}
+      &#8201;&emsp;<i>{{'Publication Location:'}}</i>&ensp;{{ page.publication.print_location }}<br>
+    {% endif %}
+    {% if page.publication.publisher != "" %}
+      &emsp;<i>{{'Publisher:'}}</i>&ensp;
+      {% for p in page.publication.publisher %}
+        {{p}}&ensp;&ensp;
+      {% endfor %}<br> 
+    {% endif %}
+    {% if page.publication.printer != "" %}
+    &emsp;<i>{{'Printer:'}}</i>&ensp;{{ page.publication.printer }}<br>
+    {% endif %}
+    {% if page.publication.format != "" %}
+    &emsp;<i>{{'Publication Format:'}}</i>&ensp;{{ page.publication.format }}<br>
+    {% endif %}
+    {% if page.publication.cost_pence != "" %}
+    &emsp;<i>{{'Sale price:'}}</i>&ensp;{{ page.publication.cost_pence }}{{' pence'}}<br>
+    {% endif %}
+    &emsp;<i>{{'Engravings:'}}</i>&ensp;{{ page.publication.engravings }}<br>
+    {% if page.publication.pages != "" %}
+    &emsp;<i>{{'Number of pages:'}}</i>&ensp;{{ page.publication.pages }}<br>
+    {% endif %}
+    {% if page.publication.notes != "" %}
+    &emsp;<i>{{'Notes:'}}</i>&ensp;{{ page.publication.notes }}<br>
+    {% endif %}
+    {% endif %}
   {% endif %}
                 
 
