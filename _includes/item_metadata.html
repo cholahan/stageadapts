@@ -53,15 +53,15 @@
   <b>{{'Adaptation Data'}}</b><br>
   &emsp;<i>{{'Original: '}}</i>
   {% for a in page.adaptid %}
-    {{ a | link_to: 'http://localhost:4000/wax/' }}<br>
-  {% endfor %}
+    {{ a | link_to: 'http://localhost:4000/wax/' }}
+  {% endfor %}<br>
     
   &emsp;<i>{{'Years between original and adaptation:'}}&ensp;</i>{{ page.Adapt_data.years_between }}<br>
   &emsp;<i>{{'Same author as original: '}}</i>&ensp;{{ page.Adapt_data.same_author }}<br>
   
 
   {% if page.Drama_data.performed == true %}
-    <b>{{'Performance Data'}}</b><br>
+    <br><b>{{'Performance Data'}}</b><br>
     &#8201;&emsp;<i>{{'Theatre:'}}&ensp;</i>{{ page.Drama_data.theatre_1 }}<br>
     &#8201;&emsp;<i>{{'Location:'}}</i>&ensp;{{ page.Drama_data.location_1 }}<br>
     &emsp;{% if page.Drama_data.date_1 != "" %}
@@ -75,9 +75,16 @@
     {% endif %}
   {% endif %}
 
+
+
+
   {% if page.Print_data.printed == true %}
     <br><b>{{'Publication Data'}}</b><br>
-    &#8201;&emsp;<i>{{'Title:'}}</i>&ensp;{{'"'}}{{ page.Print_data.print_title }}{{'"'}}<br>
+    {% if page.Print_data.print_title != "" %}
+        &#8201;&emsp;<i>{{'Title:'}}</i>&ensp;{{'"'}}{{ page.Print_data.print_title }}{{'"'}}<br>
+    {% else %}
+        &#8201;&emsp;<i>{{'Title:'}}</i>&ensp;{{'"'}}{{ page.title }}{{'"'}}<br>
+    {% endif %}
     {% if page.Print_data.print_year != "" %}
       &#8201;&emsp;<i>{{'Publication Year:'}}</i>&ensp;{{ page.Print_data.print_year }}<br>
     {% endif %}
@@ -121,7 +128,7 @@
 {% endif %}
 
 
-  {% if page.adap_notes != nil %}
+  {% if page.adap_notes.first.note != "" %}
     <br><b>{{'Adaptation Notes'}}</b><br>
     {% for i in page.adap_notes %}
       <ul><li>{{ i.note }} 
@@ -131,13 +138,33 @@
     {% endfor %}
   {% endif %}
 
+  {% if page.Drama_data.description_playbill.first.description != "" %}
+  <br><b>{{'Playbill Description'}}</b><br>
+    {% for i in page.Drama_data.description_playbill %}
+      <ul><li>{{ i.description }} 
+        {% if i.source != "" %}
+          <ul><li>{{'Source: British Library Playbill ''}}{{i.source}}</li></ul>
+        {% endif %}</li></ul>
+    {% endfor %}
+  {% endif %}
+
+  
   <br>{% if page.Claim != "" %}
     <b>{{'Adaptation Claims'}}</b><br>
     <ul>{% for c in page.Claim %}
+      {% if c.claim != "" %}
       <li> {{c.claim}}</li>
         {% if c.source != "" %}
           <ul><li>{{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</li></ul>
         {% endif %}
+      {% elsif c.claim == "" and c.source != "" %}
+      <li> {{'Text is an adaptation'}}</li>
+        {% if c.source != "" %}
+          <ul><li>{{ 'Source: '}} {{ c.source}} {{'('}}{{c.source_details}}{{')'}}</li></ul>
+        {% endif %}
+      {% else %}
+        <li> {{'It is evident the text is an adaptation from its title'}}</li>
+      {% endif %}
     {% endfor %}</ul>
   {% endif %}
 
