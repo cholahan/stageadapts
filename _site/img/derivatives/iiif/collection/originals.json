@@ -1,0 +1,168 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/collection/originals.json",
+  "@type": "sc:Collection",
+  "label": "originals",
+  "manifests": [
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a023/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a023"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a037/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a037"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a107/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a107"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a069/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a069"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a082/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a082"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a083/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a083"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a054/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a054"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a068/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a068"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a094/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a094"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a043/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a043"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a084/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a084"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a087/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a087"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a078/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a078"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a093/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a093"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a092/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a092"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a107_4/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a107_4"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a089/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a089"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a106/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a106"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a011/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a011"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a066/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a066"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a067/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a067"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a071/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a071"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a070/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a070"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a110/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a110"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a107_2/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a107_2"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a028/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a028"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a001"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a108/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a108"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a109/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a109"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a004/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a004"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a105/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a105"
+    },
+    {
+      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/a013/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "a013"
+    }
+  ]
+}
