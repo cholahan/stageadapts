@@ -1,0 +1,377 @@
+<!DOCTYPE html>
+<html lang='en-us'>
+  <head>
+  <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    Novel(ty) on Stage | The Fair Circassian
+  </title>
+
+  <link rel='canonical' href='http://localhost:4000/stageadapts/adaptations/1175/'/>
+  <link rel='icon' type='image/png' href="http://localhost:4000/stageadapts/img/logo.png">
+  <link rel='stylesheet' href="http://localhost:4000/stageadapts/assets/styles.css"/>
+
+  <script type='text/javascript' src="http://localhost:4000/stageadapts/assets/jquery-3.2.1.min.js"></script>
+  <noscript><p>Please enable JavaScript in your browser.</p></noscript>
+</head>
+
+
+  <body>
+    <time datetime='2021-05-04 22:33'></time>
+    <nav id='wax-header' class='navbar navbar-expand-lg navbar-light'>
+ <div class='wax-inline-container'>
+    <a class='navbar-brand' href="http://localhost:4000/stageadapts/" title='Home'>
+      Novel(ty) on Stage
+    </a>
+
+    <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#wax-header-navbar' aria-controls='wax-header-navbar' aria-expanded='false' aria-label='navigation'>
+      <span class='navbar-toggler-icon'></span>
+    </button>
+
+    <div class='collapse navbar-collapse' id="wax-header-navbar">
+      <ul class='nav navbar-nav ml-auto justify-content-end'>
+        
+          
+            <li class='nav-item dropdown'>
+              <a class='nav-link dropdown-toggle' href='#' id='wax-About-dropdown' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>
+                About
+              </a>
+              <div class='dropdown-menu' aria-labelledby='wax-About-dropdown'>
+                
+                  <a class='dropdown-item' href='http://localhost:4000/stageadapts/project/'>The Project</a>
+                
+                  <a class='dropdown-item' href='http://localhost:4000/stageadapts/database/'>Database</a>
+                
+                  <a class='dropdown-item' href='http://localhost:4000/stageadapts/credits/'>Credits</a>
+                
+              </div>
+            </li>
+          
+        
+          
+            <li class='nav-item'>
+              <a class='nav-link' href='http://localhost:4000/stageadapts/collection/'>Browse</a>
+            </li>
+          
+        
+      </ul>
+    </div>
+  </div>
+ </nav>
+
+
+    
+
+    <div id='wax-main'>
+      <div id='wax-content' class='wax-inline-container'>
+        
+
+<h3 alt="" class='item-label'></h3>
+
+
+
+
+  <div class='item-view'>
+    <span class='pagination-link' id='prevlink'></span>
+    
+      <div id="osd" class="image-viewer"></div>
+<script async defer src="http://localhost:4000/stageadapts/assets/openseadragon/openseadragon.min.js"></script>
+
+<script>
+  $(document).ready(function () {
+    var manifestUrl = "http://localhost:4000/stageadapts/img/derivatives/iiif/1175/manifest.json";
+    $.getJSON(manifestUrl, function(data) {
+      var tileSources = [];
+      $.each(data.sequences[0].canvases, function(k, val) {
+        tileSources.push(val.images[0].resource.service['@id'] + '/info.json');
+      });
+      OpenSeadragon({
+        id: "osd",
+        sequenceMode: true,
+        prefixUrl: "http://localhost:4000/stageadapts/assets/openseadragon/images/",
+        tileSources: tileSources,
+        homeFillsViewer: false,
+        showReferenceStrip: true
+      });
+    });
+  });
+</script>
+
+    
+    <span class='pagination-link' id='nextlink'></span>
+  </div>
+  
+
+
+
+  <script type='text/javascript'>
+    $('#prevlink').append(`<a href='http://localhost:4000/stageadapts/adaptations/1172/' display='none'>&#8249;</a>`);
+    $('#nextlink').append(`<a href='http://localhost:4000/stageadapts/adaptations/1211/' display='none'>&#8250;</a>`);
+  </script>
+
+
+
+
+
+
+
+
+  <dl class='metadata-block'>
+  
+    
+
+    
+    
+      
+        <dt>Title</dt>
+        <dd>The Fair Circassian</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Author</dt>
+        <dd>Samuel Jackson Pratt</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Year</dt>
+        <dd>1781</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Adaptation Form</dt>
+        <dd>drama</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Genre</dt>
+        <dd>tragedy</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Genre (standardized)</dt>
+        <dd>tragedy</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Adaptation Type</dt>
+        <dd>adaptation</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Location</dt>
+        <dd>UK</dd>
+      
+    
+  
+    
+
+    
+    
+      
+        <dt>Language</dt>
+        <dd>English</dd>
+      
+    
+  
+    
+
+    
+    
+  
+
+<dd>
+  
+    <b>Adaptation Data</b><br>
+    &emsp;<i>Original: </i>&emsp;
+    
+      a087&emsp;
+    <br>
+      
+    &emsp;<i>Years between original and adaptation:&ensp;</i>20<br>
+    &emsp;<i>Same author as original: </i>&ensp;false<br>
+    
+
+    
+      <br><b>Performance Data</b><br>
+      &#8201;&emsp;<i>Theatre:&ensp;</i>Drury Lane<br>
+      &#8201;&emsp;<i>Location:</i>&ensp;London<br>
+      &emsp;
+      <i>First performance:</i>&ensp;11-27-1781<br>
+      
+      &emsp;
+      <i>Theatre Manager:</i>&ensp;Richard Brinsley Sheridan<br>
+      
+      
+    
+
+
+
+
+    
+      <br><b>Publication Data</b><br>
+      
+          &#8201;&emsp;<i>Title:</i>&ensp;"The fair circassian: a tragedy. As performed at the Theatre-Royal, Drury-Lane"<br>
+      
+      
+        &#8201;&emsp;<i>Publication Year:</i>&ensp;1781<br>
+      
+      
+        &emsp;<i>Publication Location:</i>&ensp;London<br>
+      
+      
+        &emsp;<i>Publisher:</i>&ensp;
+        
+          R. Baldwin&ensp;&ensp;
+        <br> 
+      
+      
+      
+    
+
+    
+
+
+    
+      <br><b>Adaptation Notes</b><br>
+      
+        <ul><li>The original machinery has been rejected, because it would have been too daring an attempt to interweave it with the fable of a modern composition, and perhaps too mighty a task to manage without violating the first great law of dramatick probability. At the same time, it has been the author's most assiduous endeavour, to 'convert the sententious display of eastern wisdom, as far as character would permit, into the language of passion, varied by every motive which might most forcibly affect the human mind in the most warm and intersting situations.' These are the words of a critick, who seems fully to have penetrated the design of the author. 
+        
+          <ul><li>Source: Preface to printed work</li></ul>
+        </li></ul>
+      
+        <ul><li>The fable and characters of this play are copied from Dr Hawkesworth's well-known tale of Almoran and Hamet; and they are copied with more exactness than is usual in the composition of a play. We mean not this as the slightest objection; as the art of giving life to the descriptions of a tale, is often much greater than that of contriving the tale itself. 
+        
+          <ul><li>Source: The Edinburgh Magazine, or, Literary Amusement, 02-20-1781</li></ul>
+        </li></ul>
+      
+        <ul><li>[...] like its source, it makes shape-shifting integral to its action. 
+        
+          <ul><li>Source: James Watt, British Orientalisms (2019), pp. 107</li></ul>
+        </li></ul>
+      
+        <ul><li>Pratt's work begins by outlining the recent division of the Persian throne between the brothers Almoran and Hamet after the death of their father, and in thus alluding to the ongoing American war the play conceives of Persia as a 'parallel universe' rather than as a place to be 'acted upon' by Europeans. 
+        
+          <ul><li>Source: James Watt, British Orientalisms (2019), pp. 107</li></ul>
+        </li></ul>
+      
+    
+
+    
+
+
+    <br>
+      <b>Adaptation Claims</b><br>
+      <ul>
+        
+        <li> This play is founded on Dr. Hawkeswroth's tale of Almoran and Hamet</li>
+          
+          <ul><li>Source:  Biographia Dramatica
+              
+              (F.11)
+            </li></ul>
+          
+        
+      
+        
+        <li> This tragedy borrows its general story, and some of its incidents, with as much of its sentiment as could be preserved, from the very beautiful 'Almoran and Hamet' of Hawkesworth.</li>
+          
+          <ul><li>Source:  Preface to printed work
+              
+              (1781)
+            </li></ul>
+          
+        
+      </ul>
+    
+
+  
+                
+
+</dd>
+
+</dl>
+
+
+
+      </div>
+    </div>
+
+    <footer id='wax-footer' class='page-footer container-fluid'>
+  <div class='wax-inline-container'>
+    <div class='row'>
+      <div class='col'>
+        <p class='footer-title'>Novel(ty) on Stage</p>
+        <p class='footer-description'>Eighteenth-century Stage Adaptations</p>
+        <p class='footer-copyright'>
+          &copy; Creative Commons License Attribution-NonCommercial 4.0 International, 2021<br>
+          Built with <a href='https://github.com/minicomp/wax/'>Wax</a>
+        </p>
+      </div>
+      <div class='col'>
+        <p class='footer-title'>Links</p>
+        <p class='footer-links'>
+          
+            <a href='https://github.com/cholahan'>
+              GitHub
+            </a>
+           / 
+          
+            <a href='http://localhost:4000/stageadapts/project/'>
+              About
+            </a>
+          
+          
+        </p>
+        <p class='footer-logos'>
+          
+          
+          <a href="http://localhost:4000/stageadapts/" aria-label="Logo link to resource">
+            <img src='http://localhost:4000/stageadapts/img/logo.png' alt="logo"/>
+          </a>
+          
+        </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  </body>
+
+  <script type='text/javascript' async defer src='http://localhost:4000/stageadapts/assets/bootstrap/bootstrap.min.js'></script>
+  <script type='text/javascript' async defer src='http://localhost:4000/stageadapts/assets/popper.min.js'></script>
+</html>
