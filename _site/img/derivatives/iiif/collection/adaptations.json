@@ -1,71 +1,71 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/collection/adaptations.json",
+  "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/collection/adaptations.json",
   "@type": "sc:Collection",
   "label": "adaptations",
   "manifests": [
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1032/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1032/manifest.json",
       "@type": "sc:Manifest",
       "label": "1032"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1141/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1141/manifest.json",
       "@type": "sc:Manifest",
       "label": "1141"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1080/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1080/manifest.json",
       "@type": "sc:Manifest",
       "label": "1080"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1056/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1056/manifest.json",
       "@type": "sc:Manifest",
       "label": "1056"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1030/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1030/manifest.json",
       "@type": "sc:Manifest",
       "label": "1030"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1138/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1138/manifest.json",
       "@type": "sc:Manifest",
       "label": "1138"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1065/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1065/manifest.json",
       "@type": "sc:Manifest",
       "label": "1065"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1167/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1167/manifest.json",
       "@type": "sc:Manifest",
       "label": "1167"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1211/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1211/manifest.json",
       "@type": "sc:Manifest",
       "label": "1211"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1006/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1006/manifest.json",
       "@type": "sc:Manifest",
       "label": "1006"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1172/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1172/manifest.json",
       "@type": "sc:Manifest",
       "label": "1172"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1175/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1175/manifest.json",
       "@type": "sc:Manifest",
       "label": "1175"
     },
     {
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/1001/manifest.json",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/1001/manifest.json",
       "@type": "sc:Manifest",
       "label": "1001"
     }

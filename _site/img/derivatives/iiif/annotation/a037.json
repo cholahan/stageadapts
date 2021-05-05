@@ -1,19 +1,19 @@
 {
   "@type": "oa:Annotation",
-  "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/annotation/a037.json",
+  "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/annotation/a037.json",
   "motivation": "sc:painting",
   "resource": {
-    "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/images/a037/full/full/0/default.jpg",
+    "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/images/a037/full/full/0/default.jpg",
     "@type": "dcterms:Image",
     "format": "image/jpeg",
     "service": {
       "@context": "http://iiif.io/api/image/2/context.json",
-      "@id": "http://localhost:4000/stageadapts/img/derivatives/iiif/images/a037",
+      "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/images/a037",
       "profile": "http://iiif.io/api/image/2/level0.json"
     },
     "width": 2000,
     "height": 1616
   },
-  "on": "http://localhost:4000/stageadapts/img/derivatives/iiif/canvas/a037.json",
+  "on": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/canvas/a037.json",
   "@context": "http://iiif.io/api/presentation/2/context.json"
 }
