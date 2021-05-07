@@ -20,8 +20,8 @@
 
 title:            'Novel(ty) on Stage'
 description:      'Eighteenth-century Stage Adaptations'
-url:              'http://www.cassidyholahan.com/stageadapts/'
-baseurl:          '/stageadapts/'
+url:              'http://www.cassidyholahan.com'
+baseurl:          '/stageadapts'
 copyright:        'Creative Commons License Attribution-NonCommercial 4.0 International, 2021'
 logo:             '/assets/logo.png'
 

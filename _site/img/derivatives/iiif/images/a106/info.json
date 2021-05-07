@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/images/a106",
+  "@id": "http://www.cassidyholahan.com/stageadapts/img/derivatives/iiif/images/a106",
   "protocol": "http://iiif.io/api/image",
   "width": 2536,
   "height": 3498,

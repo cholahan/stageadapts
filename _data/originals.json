@@ -98,7 +98,7 @@
       ]
     },
     "order": "00",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a110/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a110/full/1140,/0/default.jpg",
@@ -204,7 +204,7 @@
       ]
     },
     "order": "01",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a087/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a087/full/1140,/0/default.jpg",
@@ -316,7 +316,7 @@
       ]
     },
     "order": "02",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a084/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a084/full/1140,/0/default.jpg",
@@ -404,7 +404,7 @@
       ]
     },
     "order": "03",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a082/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a082/full/1140,/0/default.jpg",
@@ -492,7 +492,7 @@
       ]
     },
     "order": "04",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a071/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a071/full/1140,/0/default.jpg",
@@ -588,7 +588,7 @@
       ]
     },
     "order": "05",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a070/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a070/full/1140,/0/default.jpg",
@@ -677,7 +677,7 @@
       ]
     },
     "order": "06",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a043/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a043/full/1140,/0/default.jpg",
@@ -766,7 +766,7 @@
       ]
     },
     "order": "07",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a028/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a028/full/1140,/0/default.jpg",
@@ -855,7 +855,7 @@
       ]
     },
     "order": "08",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a023/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a023/full/1140,/0/default.jpg",
@@ -955,7 +955,7 @@
       ]
     },
     "order": "09",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a013/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a013/full/1140,/0/default.jpg",
@@ -1044,7 +1044,7 @@
       ]
     },
     "order": "10",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a011/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a011/full/1140,/0/default.jpg",
@@ -1133,7 +1133,7 @@
       ]
     },
     "order": "11",
-    "layout": "qatar_item",
+    "layout": "originals_item",
     "collection": "originals",
     "thumbnail": "/img/derivatives/iiif/images/a001/full/250,/0/default.jpg",
     "full": "/img/derivatives/iiif/images/a001/full/1140,/0/default.jpg",
